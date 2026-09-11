@@ -1,0 +1,102 @@
+{
+  "brandSource": "user-provided official IP material archive",
+  "uiSource": "account A, note A026, 6a9635ff000000002601a270",
+  "assets": [
+    {
+      "file": "dumate-logo.png",
+      "sha256": "312da814b6a9238d34a953a79c74db316769fbb820e6c86c81182371f61db24f",
+      "type": "official-brand",
+      "sourceArchive": "references/dumate/raw/brand/dumate-搭子ip素材 2.zip",
+      "member": "ip说明.png",
+      "operation": "crop [1950,600,1400,250] then trim outer margin"
+    },
+    {
+      "file": "dumate-official-ip.png",
+      "sha256": "deaee06933b00e56e92d82e7b6d7e871009b010b0b4f4fd6816fed0e9b61cba4",
+      "type": "official-brand",
+      "sourceArchive": "references/dumate/raw/brand/dumate-搭子ip素材 2.zip",
+      "member": "Group 2147230954.png",
+      "operation": "unchanged copy"
+    },
+    {
+      "file": "ppt-skill.png",
+      "sha256": "584d7f85f861ffc173cbeb89f09a54378f29d644a7484be27077d5c3db4b138f",
+      "type": "reference-product-ui",
+      "case": "A026",
+      "collectedAt": "2026-09-02",
+      "sourcePath": "/Users/wenchengmin/Documents/自动化商品生图/references/dumate/xhs-account-5fdf3961/recollection/chrome-batch-20260902/026-6a9635ff000000002601a270/03.webp",
+      "crop": [
+        418,
+        923,
+        494,
+        108
+      ],
+      "purpose": "PPT技能入口，保留参考原红框",
+      "state": "reference case, not a new product run"
+    },
+    {
+      "file": "task-input.png",
+      "sha256": "ce356a4881620f322fc4ccc6a5b583b406aa2160b5ac53b298a17b21fd62667c",
+      "type": "reference-product-ui",
+      "case": "A026",
+      "collectedAt": "2026-09-02",
+      "sourcePath": "/Users/wenchengmin/Documents/自动化商品生图/references/dumate/xhs-account-5fdf3961/recollection/chrome-batch-20260902/026-6a9635ff000000002601a270/03.webp",
+      "crop": [
+        542,
+        278,
+        508,
+        264
+      ],
+      "purpose": "述职任务名称与原始需求",
+      "state": "reference case, not a new product run"
+    },
+    {
+      "file": "length-confirm.png",
+      "sha256": "2c315ead5b9bf753f3343869bb34bc298f2d8c0862d6fee73ea41e06fd5c2c74",
+      "type": "reference-product-ui",
+      "case": "A026",
+      "collectedAt": "2026-09-02",
+      "sourcePath": "/Users/wenchengmin/Documents/自动化商品生图/references/dumate/xhs-account-5fdf3961/recollection/chrome-batch-20260902/026-6a9635ff000000002601a270/04.webp",
+      "crop": [
+        35,
+        591,
+        475,
+        555
+      ],
+      "purpose": "篇幅确认问题与选项",
+      "state": "reference case, not a new product run"
+    },
+    {
+      "file": "ppt-file.png",
+      "sha256": "3678431f006e0a5a75d0d35527080dfb61415de78f0fdaf7af6831ed9fba92c8",
+      "type": "reference-product-ui",
+      "case": "A026",
+      "collectedAt": "2026-09-02",
+      "sourcePath": "/Users/wenchengmin/Documents/自动化商品生图/references/dumate/xhs-account-5fdf3961/recollection/chrome-batch-20260902/026-6a9635ff000000002601a270/05.webp",
+      "crop": [
+        56,
+        1041,
+        356,
+        87
+      ],
+      "purpose": "PPT文件交付卡片",
+      "state": "reference case, not a new product run"
+    },
+    {
+      "file": "ppt-preview.png",
+      "sha256": "2514169daddd04fefa561c54db4c97cc46f51ec752b4781066b1770f1a5437e8",
+      "type": "reference-product-ui",
+      "case": "A026",
+      "collectedAt": "2026-09-02",
+      "sourcePath": "/Users/wenchengmin/Documents/自动化商品生图/references/dumate/xhs-account-5fdf3961/recollection/chrome-batch-20260902/026-6a9635ff000000002601a270/05.webp",
+      "crop": [
+        542,
+        646,
+        490,
+        561
+      ],
+      "purpose": "述职PPT结果预览，示例数值不作业绩主张",
+      "state": "reference case, not a new product run"
+    }
+  ]
+}
