@@ -1,0 +1,169 @@
+{
+  "updated": "2026-09-15",
+  "scope": "12类工作流与6图；16篇审核表状态批注；2篇完整远端稿7图；5篇本地文案与整组预览。不是16篇全文图像全部读完。",
+  "distribution": "用户本地学习资料，未经另行授权不推送公开仓库。",
+  "assets": [
+    {
+      "id": "W01",
+      "path": "assets/learning-20260915/workflow/01.png",
+      "kind": "source-image",
+      "source": "https://my.feishu.cn/wiki/Nm6JwgH4giarfika7KNc9Klonkg",
+      "notes": "历史工作流成果；图像已逐张查看，动态数据不可照搬。",
+      "sha256": "af4fbc0e8c96310c2779c253ced5e391b84f226b574c459aaec76fb2f8e29461",
+      "viewed": true
+    },
+    {
+      "id": "W02",
+      "path": "assets/learning-20260915/workflow/02.png",
+      "kind": "source-image",
+      "source": "https://my.feishu.cn/wiki/Nm6JwgH4giarfika7KNc9Klonkg",
+      "notes": "历史工作流成果；图像已逐张查看，动态数据不可照搬。",
+      "sha256": "0d67c7d24ba7ef3277024e226bf8c59484d04d7174dbb717cff05b1b083e1d14",
+      "viewed": true
+    },
+    {
+      "id": "W03",
+      "path": "assets/learning-20260915/workflow/03.png",
+      "kind": "source-image",
+      "source": "https://my.feishu.cn/wiki/Nm6JwgH4giarfika7KNc9Klonkg",
+      "notes": "历史工作流成果；图像已逐张查看，动态数据不可照搬。",
+      "sha256": "da4dbbf0500eaf1cd9cc20246c7ca8413711287903b1a7ff0563d738a07a090f",
+      "viewed": true
+    },
+    {
+      "id": "W04",
+      "path": "assets/learning-20260915/workflow/04.png",
+      "kind": "source-image",
+      "source": "https://my.feishu.cn/wiki/Nm6JwgH4giarfika7KNc9Klonkg",
+      "notes": "历史工作流成果；图像已逐张查看，动态数据不可照搬。",
+      "sha256": "b76c4b5e2c2806a9c05af98053f5c5d09501837ffef79bd0254b0836bc0207d3",
+      "viewed": true
+    },
+    {
+      "id": "W05",
+      "path": "assets/learning-20260915/workflow/05.png",
+      "kind": "source-image",
+      "source": "https://my.feishu.cn/wiki/Nm6JwgH4giarfika7KNc9Klonkg",
+      "notes": "历史工作流成果；图像已逐张查看，动态数据不可照搬。",
+      "sha256": "76164b1754518b3d200ddf0b5d255661135272a6c593354722f08c93e00e58f3",
+      "viewed": true
+    },
+    {
+      "id": "W06",
+      "path": "assets/learning-20260915/workflow/06.png",
+      "kind": "source-image",
+      "source": "https://my.feishu.cn/wiki/Nm6JwgH4giarfika7KNc9Klonkg",
+      "notes": "历史工作流成果；图像已逐张查看，动态数据不可照搬。",
+      "sha256": "eeb90d0b97a1140502f76e8fb3fe4d26108345a4e87d8f28e380d2257c2607e3",
+      "viewed": true
+    },
+    {
+      "id": "L01",
+      "path": "assets/learning-20260915/local/L01.jpg",
+      "kind": "local-contact-sheet",
+      "source": "output/dazi-guangxi-2d1n-20260912/四图预览.jpg",
+      "notes": "已看整组预览与文案；不是审核版本认证，拟用关键素材须另看原尺寸。",
+      "sha256": "1842d72c0a6a20d3fbc82a5c91f76926a92a7c78494c404f0f4838e8d61e1db9",
+      "viewed": true
+    },
+    {
+      "id": "L02",
+      "path": "assets/learning-20260915/local/L02.jpg",
+      "kind": "local-contact-sheet",
+      "source": "output/dazi-weekly-report-mix-20260913/四图预览.jpg",
+      "notes": "已看整组预览与文案；不是审核版本认证，拟用关键素材须另看原尺寸。",
+      "sha256": "5a3d9d9a1529ce11feebbed001f99d07201ef0620afd084b087aec1e8c1fc7fe",
+      "viewed": true
+    },
+    {
+      "id": "L03",
+      "path": "assets/learning-20260915/local/L03.jpg",
+      "kind": "local-contact-sheet",
+      "source": "output/dazi-job-radar-three-20260915-v2/A-整篇预览.jpg",
+      "notes": "已看整组预览与文案；不是审核版本认证，拟用关键素材须另看原尺寸。",
+      "sha256": "24d7be1e5e88a7141e1d3f00f98fe9b977b415b02a620819c0fedb4fa56b2f0e",
+      "viewed": true
+    },
+    {
+      "id": "L04",
+      "path": "assets/learning-20260915/local/L04.jpg",
+      "kind": "local-contact-sheet",
+      "source": "output/dazi-job-radar-three-20260915-v2/B-整篇预览.jpg",
+      "notes": "已看整组预览与文案；不是审核版本认证，拟用关键素材须另看原尺寸。",
+      "sha256": "677d962dc67b338369674e3c6d0554978538e785b08ee85912b7839f8ea037f5",
+      "viewed": true
+    },
+    {
+      "id": "L05",
+      "path": "assets/learning-20260915/local/L05.jpg",
+      "kind": "local-contact-sheet",
+      "source": "output/dazi-haitou-live-20260915/三图预览.jpg",
+      "notes": "已看整组预览与文案；不是审核版本认证，拟用关键素材须另看原尺寸。",
+      "sha256": "a34b2697aed510c0d11666b787fd3c8cf47dcd84f9bb4e3af54aea3f9f06dea5",
+      "viewed": true
+    },
+    {
+      "id": "R01-01",
+      "path": "assets/learning-20260915/review/R01-01.png",
+      "kind": "submitted-draft-image",
+      "source": "https://kcna6p2r2wlp.feishu.cn/wiki/OYAVwMKJ4iacK7k6OmjcyEZ1nSb",
+      "notes": "逐图已查看；文件编号为资产导出次序，不保证稿件页序。审核状态见review-lessons.md。",
+      "sha256": "d97e81dcfbdf12bbc8f562d1782f07f02e3b354ad4ff2136ef802f0673945406",
+      "viewed": true
+    },
+    {
+      "id": "R01-02",
+      "path": "assets/learning-20260915/review/R01-02.png",
+      "kind": "submitted-draft-image",
+      "source": "https://kcna6p2r2wlp.feishu.cn/wiki/OYAVwMKJ4iacK7k6OmjcyEZ1nSb",
+      "notes": "逐图已查看；文件编号为资产导出次序，不保证稿件页序。审核状态见review-lessons.md。",
+      "sha256": "6981b9c5f6b9a81a377944c4b98d4cc77ce3b9e3ac8c45329a9f3298438516db",
+      "viewed": true
+    },
+    {
+      "id": "R01-03",
+      "path": "assets/learning-20260915/review/R01-03.png",
+      "kind": "submitted-draft-image",
+      "source": "https://kcna6p2r2wlp.feishu.cn/wiki/OYAVwMKJ4iacK7k6OmjcyEZ1nSb",
+      "notes": "逐图已查看；文件编号为资产导出次序，不保证稿件页序。审核状态见review-lessons.md。",
+      "sha256": "a20dd73b6f660d3a124265019f325d3bc2ac228eab2ba36fa37d268f61a9be15",
+      "viewed": true
+    },
+    {
+      "id": "R01-04",
+      "path": "assets/learning-20260915/review/R01-04.png",
+      "kind": "submitted-draft-image",
+      "source": "https://kcna6p2r2wlp.feishu.cn/wiki/OYAVwMKJ4iacK7k6OmjcyEZ1nSb",
+      "notes": "逐图已查看；文件编号为资产导出次序，不保证稿件页序。审核状态见review-lessons.md。",
+      "sha256": "08dfd04a2c61d6d36c0ea28a89376e3d7103c358f148ab3df246e2592aa3eb76",
+      "viewed": true
+    },
+    {
+      "id": "R02-01",
+      "path": "assets/learning-20260915/review/R02-01.png",
+      "kind": "submitted-draft-image",
+      "source": "https://my.feishu.cn/wiki/EP0cwvIZmiIPXdkcoYica1l7nnc",
+      "notes": "逐图已查看；文件编号为资产导出次序，不保证稿件页序。审核状态见review-lessons.md。",
+      "sha256": "080dbbfaa5d9ab48d02c2ee146ea8c61ddd3d2f630a6185bf3dad6c659a35f17",
+      "viewed": true
+    },
+    {
+      "id": "R02-02",
+      "path": "assets/learning-20260915/review/R02-02.png",
+      "kind": "submitted-draft-image",
+      "source": "https://my.feishu.cn/wiki/EP0cwvIZmiIPXdkcoYica1l7nnc",
+      "notes": "逐图已查看；文件编号为资产导出次序，不保证稿件页序。审核状态见review-lessons.md。",
+      "sha256": "b2a0748aa56c171aa81a1f918bdca1848460038ad770ace7ca2fe7a7e0a67fda",
+      "viewed": true
+    },
+    {
+      "id": "R02-03",
+      "path": "assets/learning-20260915/review/R02-03.png",
+      "kind": "submitted-draft-image",
+      "source": "https://my.feishu.cn/wiki/EP0cwvIZmiIPXdkcoYica1l7nnc",
+      "notes": "逐图已查看；文件编号为资产导出次序，不保证稿件页序。审核状态见review-lessons.md。",
+      "sha256": "bb11b78b62932ba4c7efc8713c519de2c9ec0485c1520dbff0b195df70f98023",
+      "viewed": true
+    }
+  ]
+}

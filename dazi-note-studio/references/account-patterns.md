@@ -6,7 +6,7 @@
 正文通读，图片按页联系表总览，对错配及重要细节用原图/OCR复核。B043P01 本地保存图为空白，不能推断原帖封面。OCR有误识别，细字不以OCR单独定论。
 编号沿用各目录数字：A008 即 A 账号 008 目录，P04 为第 4 张。完整原文、图索引及逐篇批注在本次研究交付包中。以下是观察与创作推断，不是流量实验结论。
 
-本机回查位置（迁移到其他电脑后，原图需另提供；本 Skill 的方法不依赖这些路径才能使用）：
+本机回查位置（便携版原图已随 assets/corpus 保存，优先用 scripts/corpus.py 检索；以下为最初研究回查位置）：
 
 - A：`/Users/wenchengmin/Documents/自动化商品生图/references/dumate/xhs-account-5fdf3961/recollection/chrome-batch-20260902`
 - B：`/Users/wenchengmin/Documents/自动化商品生图/references/dumate/xhs-account-68f3bcd6/recollection/chrome-batch-20260902`

@@ -1,0 +1,485 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-12",
+  "description": "通用搭子界面与虚构简历实操素材；按scope复用，AI场景单独说明。",
+  "items": [
+    {
+      "id": "U001",
+      "title": "首页与新任务",
+      "category": "首页",
+      "tags": [
+        "派活",
+        "通用",
+        "新任务"
+      ],
+      "path": "assets/ui-library/images/U001.png",
+      "source_url": "https://dumate.baidu.com/app",
+      "captured_at": "2026-09-12",
+      "scope": "通用入口；没有输入或执行结果",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U001-首页-新任务与快捷能力.png",
+      "source_sha256": "174a0d10603b6fb04c6b74a6be38acfac5f201d15c94463e9f87d22730d2bb5a",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "48c3c8dbff52e9f3126f4da31780bbf46cab73d110130b2402944cd836d6c4ff"
+    },
+    {
+      "id": "U002",
+      "title": "添加附件菜单",
+      "category": "输入",
+      "tags": [
+        "附件",
+        "上传文件",
+        "派活"
+      ],
+      "path": "assets/ui-library/images/U002.png",
+      "source_url": "https://dumate.baidu.com/app",
+      "captured_at": "2026-09-12",
+      "scope": "菜单展开，未上传文件",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U002-输入-添加附件菜单.png",
+      "source_sha256": "ccbd905f3c755ea2a719e9e7c462bb5b431282c867e0982faa5fdfa02b40131a",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "5214642e59804e7b9f471e5e4b15569071424940768d5211374973cc0d52214d"
+    },
+    {
+      "id": "U003",
+      "title": "技能与套件选择器",
+      "category": "输入",
+      "tags": [
+        "技能",
+        "套件",
+        "选择"
+      ],
+      "path": "assets/ui-library/images/U003.png",
+      "source_url": "https://dumate.baidu.com/app",
+      "captured_at": "2026-09-12",
+      "scope": "菜单顶部可见，不能声称已执行",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U003-输入-技能套件选择器.png",
+      "source_sha256": "9cf468e3dab46cad60b1d258068923f51ff55820f2d86ece99e402a9b7a301c7",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "a56506264a2e2916f7a726fc0d8c1634462d80c2f4e24c7ad93815f88ee0e195"
+    },
+    {
+      "id": "U004",
+      "title": "PDF技能已选中",
+      "category": "输入",
+      "tags": [
+        "PDF",
+        "技能",
+        "文档"
+      ],
+      "path": "assets/ui-library/images/U004.png",
+      "source_url": "https://dumate.baidu.com/app",
+      "captured_at": "2026-09-12",
+      "scope": "PDF技能标签进入输入框，未发送任务",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U004-输入-PDF技能已选中.png",
+      "source_sha256": "6eee3c4dd33bdda063cd0f3863797d6366aa8ea6f16a427aff37ddc9420428d3",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "c04b967c1051151cb67ef07021bc0844d8535a32bc4984e79667cc883f030dd7"
+    },
+    {
+      "id": "U005",
+      "title": "专家套件总览",
+      "category": "套件",
+      "tags": [
+        "设计",
+        "教学",
+        "自媒体"
+      ],
+      "path": "assets/ui-library/images/U005.png",
+      "source_url": "https://dumate.baidu.com/app/capability",
+      "captured_at": "2026-09-12",
+      "scope": "功能介绍入口",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U005-套件-专家套件总览.png",
+      "source_sha256": "079cb6c6ebd2dbf7c367ba581e4dd23de036067446fbdff9f6e328bda2217383",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "7750e1c38897dd4d06927259ee76bd6d6626599fb989dbdbd4b7bd19c46db090"
+    },
+    {
+      "id": "U006",
+      "title": "设计套件详情",
+      "category": "套件",
+      "tags": [
+        "设计",
+        "网站",
+        "APP",
+        "视觉"
+      ],
+      "path": "assets/ui-library/images/U006.png",
+      "source_url": "https://dumate.baidu.com/app/plugins/design-suite-router",
+      "captured_at": "2026-09-12",
+      "scope": "功能介绍；未运行设计任务",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U006-套件-设计套件详情.png",
+      "source_sha256": "bd624e9249e81640bbafd9f1c515cd8fa293ef87f716c835dfbdee178e011359",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "538f52cf4a2d729ad77db9d178e7da3c54cdc16cdc2e78114a3e1906a9d00703"
+    },
+    {
+      "id": "U007",
+      "title": "教学套件详情",
+      "category": "套件",
+      "tags": [
+        "教师",
+        "备课",
+        "教学"
+      ],
+      "path": "assets/ui-library/images/U007.png",
+      "source_url": "https://dumate.baidu.com/app/plugins/edu-teaching-plugin",
+      "captured_at": "2026-09-12",
+      "scope": "功能介绍；未运行教学任务",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U007-套件-教学套件详情.png",
+      "source_sha256": "f220c18e76407a1c05d0a2817df97b9869430c047849532c283a86c726a38a73",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "c3b26c282f568dcbada1a9957b38d4e67bcb5a6069b65f994c632032dc621fa4"
+    },
+    {
+      "id": "U008",
+      "title": "自媒体套件详情",
+      "category": "套件",
+      "tags": [
+        "图文",
+        "自媒体",
+        "账号分析"
+      ],
+      "path": "assets/ui-library/images/U008.png",
+      "source_url": "https://dumate.baidu.com/app/plugins/self-media-expert",
+      "captured_at": "2026-09-12",
+      "scope": "功能介绍；未执行账号操作",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U008-套件-自媒体套件详情.png",
+      "source_sha256": "8da24cf5b57082fc1c9325e5540a03f2dcaf8bac7ed0114aae3feb562b0246fc",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "8595e391f4710138c145bb1c50fbb326718ead256246e66597aaba349d52f38e"
+    },
+    {
+      "id": "U009",
+      "title": "技能广场总览",
+      "category": "技能",
+      "tags": [
+        "插件",
+        "技能",
+        "搜索"
+      ],
+      "path": "assets/ui-library/images/U009.png",
+      "source_url": "https://dumate.baidu.com/app/capability",
+      "captured_at": "2026-09-12",
+      "scope": "技能目录；安装状态以原图为准",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U009-技能-技能广场总览.png",
+      "source_sha256": "796b3719cbd6236c348a538a72a6c91601bce3cb34b3a1925cffaa2c95729364",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "6165cbfe56541f9eeae1e61ed56965f79cfbff273c0977e23002c6c7f03b54b7"
+    },
+    {
+      "id": "U010",
+      "title": "办公协作分类",
+      "category": "技能",
+      "tags": [
+        "文档解析",
+        "会议纪要",
+        "网盘",
+        "办公"
+      ],
+      "path": "assets/ui-library/images/U010.png",
+      "source_url": "https://dumate.baidu.com/app/capability",
+      "captured_at": "2026-09-12",
+      "scope": "办公协作类别；未安装或运行其中的新技能",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U010-技能-办公协作分类.png",
+      "source_sha256": "e10ef7c12c2990361ef19fed0f41148cad0f15ef61b95828c503f261d327d85e",
+      "crop_xyxy": [
+        240,
+        0,
+        1280,
+        720
+      ],
+      "width": 1040,
+      "height": 720,
+      "sha256": "5b402e22a08fe0b23e5a984b49cb5e280af0d7677b876c7fef39b1d084b928f3"
+    },
+    {
+      "id": "U011",
+      "title": "创建自动化任务表单",
+      "category": "自动化",
+      "tags": [
+        "定时",
+        "周期",
+        "自动化"
+      ],
+      "path": "assets/ui-library/images/U011.png",
+      "source_url": "https://dumate.baidu.com/app/scheduled-task",
+      "captured_at": "2026-09-12",
+      "scope": "空白创建表单，未提交、未启用任务",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "references/dumate/ui-materials/20260912-live/raw/U011-自动化-创建表单未提交.png",
+      "source_sha256": "df174d73cb7486d919d51a9c7257e23b37ea8da5b38422b9f400574eaf732853",
+      "crop_xyxy": [
+        360,
+        118,
+        920,
+        602
+      ],
+      "width": 560,
+      "height": 484,
+      "sha256": "daa802e697b86598ee7bd8a0c20d8e2bef8048190c8e1f847b48a35630d04443"
+    },
+    {
+      "id": "U101",
+      "title": "简历任务：三个附件与完整指令",
+      "category": "输入",
+      "tags": [
+        "简历",
+        "PDF",
+        "跨文件",
+        "提示词"
+      ],
+      "path": "assets/ui-library/images/U101.png",
+      "source_url": "https://dumate.baidu.com/app/session/ses_gffe5f6afb5927ffeJHkPh5H31S6HPt",
+      "captured_at": "2026-09-12",
+      "scope": "同一虚构简历案例的真实输入；可以示范材料与派活，不能改成他人实测",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "output/dazi-resume-realrun-20260912/真实截图/01-真实输入-三个附件与任务指令.png",
+      "source_sha256": "d922247fc3e78f5132bb7028046cb5c8938afd14e5198a397eb24f77f3e3c2db",
+      "crop_xyxy": [
+        28,
+        70,
+        735,
+        322
+      ],
+      "width": 707,
+      "height": 252,
+      "sha256": "2dfe99043549feaf23bc8b0180b3fbe8ff33608ffd6cbdd55674ceae5952638a"
+    },
+    {
+      "id": "U102",
+      "title": "简历任务：读取三个文件与PDF技能",
+      "category": "执行",
+      "tags": [
+        "简历",
+        "跨文件",
+        "PDF",
+        "执行"
+      ],
+      "path": "assets/ui-library/images/U102.png",
+      "source_url": "https://dumate.baidu.com/app/session/ses_gffe5f6afb5927ffeJHkPh5H31S6HPt",
+      "captured_at": "2026-09-12",
+      "scope": "任务处理中的实际状态，不是最终交付",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "output/dazi-resume-realrun-20260912/真实截图/03-真实执行-读取三文件与PDF技能.png",
+      "source_sha256": "5dbe2a1ff7c249cb1cfb48f444978da59e56963ba4c957b51d04f12db192bdd7",
+      "crop_xyxy": [
+        8,
+        8,
+        499,
+        570
+      ],
+      "width": 491,
+      "height": 562,
+      "sha256": "c6864611411086dbd7aa895dc9d1e5a2ff9e42b85df8eb026769d6d6fa563195"
+    },
+    {
+      "id": "U103",
+      "title": "简历任务：JD对应经历证据",
+      "category": "执行",
+      "tags": [
+        "简历",
+        "JD",
+        "岗位匹配",
+        "改写"
+      ],
+      "path": "assets/ui-library/images/U103.png",
+      "source_url": "https://dumate.baidu.com/app/session/ses_gffe5f6afb5927ffeJHkPh5H31S6HPt",
+      "captured_at": "2026-09-12",
+      "scope": "同一虚构案例的岗位映射和改写策略",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "output/dazi-resume-realrun-20260912/真实截图/05-真实执行-JD对应经历证据.png",
+      "source_sha256": "9d3a40673028b0396590c8849060a0fd640ef1d0070bbb9eef821bea0dbc320b",
+      "crop_xyxy": [
+        8,
+        8,
+        499,
+        590
+      ],
+      "width": 491,
+      "height": 582,
+      "sha256": "11a8bc3ec5918e1521a9ee23b8f80c1a36e92a48447c6893596f7d8d7f32a757"
+    },
+    {
+      "id": "U104",
+      "title": "简历任务：进度列表与PDF调用",
+      "category": "执行",
+      "tags": [
+        "进度",
+        "PDF",
+        "任务拆解"
+      ],
+      "path": "assets/ui-library/images/U104.png",
+      "source_url": "https://dumate.baidu.com/app/session/ses_gffe5f6afb5927ffeJHkPh5H31S6HPt",
+      "captured_at": "2026-09-12",
+      "scope": "真实中间状态，不能当作已完成6项任务",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "output/dazi-resume-realrun-20260912/真实截图/05-真实执行-JD对应经历证据.png",
+      "source_sha256": "9d3a40673028b0396590c8849060a0fd640ef1d0070bbb9eef821bea0dbc320b",
+      "crop_xyxy": [
+        510,
+        12,
+        752,
+        395
+      ],
+      "width": 242,
+      "height": 383,
+      "sha256": "37007af6d066a55cd2052aede7523e9770af5a5e6e7b0abe10171cc714fc5289"
+    },
+    {
+      "id": "U105",
+      "title": "简历成果：PDF和DOCX实际交付卡",
+      "category": "交付",
+      "tags": [
+        "简历",
+        "PDF",
+        "DOCX",
+        "成果"
+      ],
+      "path": "assets/ui-library/images/U105.png",
+      "source_url": "https://dumate.baidu.com/app/session/ses_gffe5f6afb5927ffeJHkPh5H31S6HPt",
+      "captured_at": "2026-09-12",
+      "scope": "同一虚构案例实际交付的易读版文件；只证明文件交付，成果内容另看U107",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "output/dazi-resume-realrun-20260912/真实截图/08-真实成果-易读版交付.png",
+      "source_sha256": "470b7a7580361fea403285e040d3ec425bb6834c65c285af2308041bc4c09413",
+      "crop_xyxy": [
+        28,
+        269,
+        339,
+        414
+      ],
+      "width": 311,
+      "height": 145,
+      "sha256": "97086362cb108f5e86e77d8b7fa74447394c3dfebc55292738e900b436d6b5c5"
+    },
+    {
+      "id": "U106",
+      "title": "简历成果：搭子内PDF预览",
+      "category": "成果预览",
+      "tags": [
+        "简历",
+        "PDF",
+        "预览",
+        "成果"
+      ],
+      "path": "assets/ui-library/images/U106.png",
+      "source_url": "https://dumate.baidu.com/app/session/ses_gffe5f6afb5927ffeJHkPh5H31S6HPt",
+      "captured_at": "2026-09-12",
+      "scope": "同一虚构案例真实PDF预览；界面浮动提示为原始状态，不重绘",
+      "state": "原始界面裁切，未重绘",
+      "source_capture": "output/dazi-resume-realrun-20260912/真实截图/09-真实成果-易读版PDF预览.png",
+      "source_sha256": "fd1143de2e66d23af1e3c6740958196d3ff7272d92207f73d63f9d84d7fde609",
+      "crop_xyxy": [
+        208,
+        8,
+        755,
+        752
+      ],
+      "width": 547,
+      "height": 744,
+      "sha256": "329cb143e4b6ba3ed748105ef28f27246aedbb51d96146d8196d1b182c242cbe"
+    },
+    {
+      "id": "U107",
+      "title": "简历成果：下载PDF整页",
+      "category": "成果文件",
+      "tags": [
+        "简历",
+        "PDF",
+        "排版",
+        "成果"
+      ],
+      "path": "assets/ui-library/images/U107.png",
+      "source_url": "https://dumate.baidu.com/app/session/ses_gffe5f6afb5927ffeJHkPh5H31S6HPt",
+      "captured_at": "2026-09-12",
+      "scope": "同一虚构案例由搭子生成并经网页下载的PDF整页渲染，非外部自制简历",
+      "state": "原始PDF整页渲染，未改文字或布局",
+      "source_capture": "output/dazi-resume-scene-20260912/work/resume-actual.png",
+      "source_sha256": "63e8bec345a5017a3b5927bff3bda187a7b001c57fd484c6bd4012e760a10871",
+      "crop_xyxy": [
+        0,
+        0,
+        1415,
+        2000
+      ],
+      "width": 1415,
+      "height": 2000,
+      "sha256": "7af5ea5ecddca6813c22098e6011a565d6126467b184c1095e8b9eb7dad4b901",
+      "artifact_path": "assets/ui-library/files/U107.pdf",
+      "artifact_sha256": "e47509e81864cf98ec5f2f15969d83c890f6efa215f7933a9ce2d4ced8cb4a2f"
+    }
+  ]
+}
