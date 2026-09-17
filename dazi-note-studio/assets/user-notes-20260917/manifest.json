@@ -1,0 +1,45 @@
+{
+  "updated": "2026-09-17",
+  "notes": [
+    {
+      "id": "U20260917-BAKERY",
+      "title": "烘焙店面包上新，海报别再花钱找人做了！",
+      "source": "用户2026-09-17本对话提供正文和4张原图，未提供笔记详情URL",
+      "kind": "user-provided-reference-note",
+      "review_status": "未提供审核结论",
+      "text_path": "assets/user-notes-20260917/bakery-poster/原文.md",
+      "analysis_path": "references/bakery-poster-learning-20260917.md",
+      "pages": [
+        {
+          "page": 1,
+          "path": "assets/user-notes-20260917/bakery-poster/01.png",
+          "sha256": "90ba6514dc188bd07f93d57805e88727986ede2ea2cebabb648fec6c58e1eb75",
+          "source_file": "/var/folders/dy/8tq0fw053bj7nvjxtjcy6l240000gn/T/codex-clipboard-3dcd3021-95b9-4985-92b0-70c111e62292.png",
+          "viewed": true
+        },
+        {
+          "page": 2,
+          "path": "assets/user-notes-20260917/bakery-poster/02.png",
+          "sha256": "0d295da67c88dd019afadf6cb3cdb020887753bbd897145ddd7b24ca35095c92",
+          "source_file": "/var/folders/dy/8tq0fw053bj7nvjxtjcy6l240000gn/T/codex-clipboard-479a08fe-b498-4354-bae0-8721a4bd5589.png",
+          "viewed": true
+        },
+        {
+          "page": 3,
+          "path": "assets/user-notes-20260917/bakery-poster/03.png",
+          "sha256": "671756ee1c906596b96d1a53cb12500f56afb66f1a50fb1a7ee02e8c50cc75cb",
+          "source_file": "/var/folders/dy/8tq0fw053bj7nvjxtjcy6l240000gn/T/codex-clipboard-30b2a611-71b2-40dd-9f3e-5b00309f029d.png",
+          "viewed": true
+        },
+        {
+          "page": 4,
+          "path": "assets/user-notes-20260917/bakery-poster/04.png",
+          "sha256": "6b3fba4e24c1d197886c226e2d14a98a21240a8ca199d8d467f2712093e2ec29",
+          "source_file": "/var/folders/dy/8tq0fw053bj7nvjxtjcy6l240000gn/T/codex-clipboard-b4153352-7d1d-4af2-b33c-2862e3f760cc.png",
+          "viewed": true
+        }
+      ],
+      "source_image_policy": "四张原图字节不变；投稿图内UI是参考素材，不声称为本轮实测截图"
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "id": "BAKERY-20260917",
+  "date": "2026-09-17",
+  "path_base": "skill_root",
+  "source_reference": "assets/user-notes-20260917/manifest.json",
+  "generation_order": [
+    "materials/product",
+    "03",
+    "01",
+    "02",
+    "targeted_revisions"
+  ],
+  "production_mode": "AI scene editing using existing DuMate UI references; no new DuMate task was run",
+  "review_status": "制作检查完成；不是平台或甲方审核通过记录",
+  "notes": [
+    {
+      "id": "croissant",
+      "title": "面包都出炉了，海报还没出炉",
+      "product": "巧克力可颂",
+      "copy": "assets/examples/bakery-20260917/croissant/发布文案.md",
+      "dumate_prompt": "assets/examples/bakery-20260917/croissant/搭子提示词.txt",
+      "cover_layout": "上下",
+      "pages": [
+        {
+          "page": "01",
+          "purpose": "成果钩子与前后变化",
+          "image": "assets/examples/bakery-20260917/croissant/01.png",
+          "prompt_file": "assets/examples/bakery-20260917/croissant/01.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/examples/bakery-20260917/croissant/materials/product.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/examples/bakery-20260917/croissant/03.png"
+            },
+            {
+              "image_number": 3,
+              "path": "assets/dumate-logo.png"
+            }
+          ],
+          "prompt": "3:4竖版小红书笔记封面，烘焙店主晒上新图。采用明确的上下排版，主成品上大下小，不是大标题在上商品在中的广告模板。参考图1是产品原照，图2是已生成完整深棕可颂海报，图3是搭子logo。浅米白背景，顶部仅中等尺寸两行标题‘面包都出炉了’‘海报也该跟上了’。上方约60%面积放图2完整海报，正视大幅展示，不裁掉海报中文字；下方约25%左边放图1白盘原照，右边自然短笔记‘一张产品照＋一张风格参考’‘交给百度搭子，排成上新图’，一根向上的小弯箭头指成品。不要并排前后对照，不要电脑桌面背景，不加手持人物。深棕和米白沿用可颂海报，文字简洁，所有照片保持原物可颂巧克力方向与条纹，不加新配料。图3logo小放右下。不要页码教程序号、私信话术、促销价格或额外卖点。小字AI辅助制作。",
+          "revisions": [],
+          "sha256": "61fe8a7a2211d5750727c6435a45f074c74c187a2f99d86fc1a4c02f09928aa4",
+          "dimensions": [
+            1087,
+            1447
+          ],
+          "source_type": "AI-generated editorial image"
+        },
+        {
+          "page": "02",
+          "purpose": "搭子界面、派活指令与打开成果",
+          "image": "assets/examples/bakery-20260917/croissant/02.png",
+          "prompt_file": "assets/examples/bakery-20260917/croissant/02.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/user-notes-20260917/bakery-poster/02.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/user-notes-20260917/bakery-poster/03.png"
+            },
+            {
+              "image_number": 3,
+              "path": "assets/examples/bakery-20260917/croissant/materials/product.png"
+            },
+            {
+              "image_number": 4,
+              "path": "assets/examples/bakery-20260917/croissant/03.png"
+            },
+            {
+              "image_number": 5,
+              "path": "assets/user-notes-20260917/bakery-poster/04.png"
+            }
+          ],
+          "prompt": "做一张3:4小红书笔记内页，清晰正常中文，无扭曲细字。图1只用其中真实搭子上传输入框UI，图2只用其中真实搭子左对话＋右侧图片预览器UI结构（删除原教程大字和旧蛋挞/牛角内容），图3是本篇产品原照，图4是本篇已生成海报，图5是上传的版式参考，官方logo沿用图1/图2中原有搭子标识。原生UI的按钮布局控件、文件图标和顶部任务标题保真。不要新造‘海报神器’按钮或必然弹出比例选项。\n本篇任务只做巧克力可颂，上传附件恰好两张：第一张是图3，名‘产品照片.png’，第二张是图5，名‘排版参考.png’。两张缩略图必须对应，不留image(32)或egg-tart等旧文件名。大幅真实UI里可读地展示这段用户指令：“用图1这只巧克力可颂做3:4上新海报。图2只参考大标题和商品放大的排版，改成深棕杂志风。保留可颂形状和右侧巧克力，不添配料。写“巧克力可颂”“酥皮层层·巧克力香”，不写价格。直接生成PNG。”。\n接着一个简短追加气泡：“可颂再放大一点，装饰少一点，字别压在面包上。”。输出PNG文件卡叫‘巧克力可颂上新.png’，并让图4成品在原生图片预览器中打开，内容与图4完全一致，不要只有下载卡。\n版面采用横向窗口居中：上方一行自然标题‘我发给搭子的，不只是“高级一点”’；下方大幅正视搭子桌面窗口横跨画面，左聊天宽45%右结果宽55%，占全图中间70%，浅米白深棕边线。底部两条简短笔记‘参考图借排版，商品别换样子’‘比例直接写3:4，省得再裁图’，不加一排卖点卡。\n官方logo只需一处，图外不印“原案例”“演示”“交付闭环”，无私信领取、页码标识、价格营养宣称。图底极小‘AI辅助制作’。留足空间，提示词可合理换行但不得删条件，特别是比例、商品保真与风格变化。",
+          "revisions": [],
+          "sha256": "20a0398f3c42fbfc95ecb6514c52565c24fc84fe19ab0ff565a574f6636c1a0e",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        },
+        {
+          "page": "03",
+          "purpose": "完整可保存海报",
+          "image": "assets/examples/bakery-20260917/croissant/03.png",
+          "prompt_file": "assets/examples/bakery-20260917/croissant/03.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/examples/bakery-20260917/croissant/materials/product.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/user-notes-20260917/bakery-poster/04.png"
+            }
+          ],
+          "prompt": "制作一张可直接使用的巧克力可颂上新海报，竖版3:4，高清中文。图1是产品身份唯一依据，严格保留同一只可颂：金棕层叠弯月形，右侧一端黑巧覆盖与三根巧克力线；不要换成蛋挞，不加糖粉不加馅不复制多只。图2仅参考商品突出和文字层级，不复制图2文案品牌或奶油底。全新深棕/可可黑背景，杂志封面级克制细衬线，暖金侧光、真实食品摄影，主体大到占60%，保留白盘或自然移到深色小台上。上部精致大字准确‘巧克力可颂’，小字‘CHOCOLATE CROISSANT’，副文‘酥皮层层 · 巧克力香’。边角小字‘小店上新’；底部一句‘给今天，留一口酥香。’。只有这些文案，别编品牌、日期、价格、成分承诺、无添加或27层工艺。不要工具UI、教程、搭子logo，这张是纯海报成果。极小底注‘AI辅助制作’。不拉伸文字，整体高级但食物真实。",
+          "revisions": [],
+          "sha256": "1ff79d01426559564e355276a20dc3275ee3f83d5b3663812b48f09d022285e5",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        }
+      ],
+      "product_material": {
+        "image": "assets/examples/bakery-20260917/croissant/materials/product.png",
+        "prompt_file": "assets/examples/bakery-20260917/croissant/materials/product.prompt.md",
+        "source_type": "AI-generated product photograph style image",
+        "observed": "后续以实际生成图片的外观、数量与配料为准。"
+      }
+    },
+    {
+      "id": "cake",
+      "title": "我家蛋糕，终于有了像样的上新图",
+      "product": "草莓奶油蛋糕",
+      "copy": "assets/examples/bakery-20260917/cake/发布文案.md",
+      "dumate_prompt": "assets/examples/bakery-20260917/cake/搭子提示词.txt",
+      "cover_layout": "斜向拼贴",
+      "pages": [
+        {
+          "page": "01",
+          "purpose": "成果钩子与前后变化",
+          "image": "assets/examples/bakery-20260917/cake/01.png",
+          "prompt_file": "assets/examples/bakery-20260917/cake/01.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/examples/bakery-20260917/cake/materials/product.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/examples/bakery-20260917/cake/03.png"
+            },
+            {
+              "image_number": 3,
+              "path": "assets/dumate-logo.png"
+            }
+          ],
+          "prompt": "3:4竖版小红书烘焙上新笔记封面，明确斜向拼贴排版，粉白与樱桃红，简洁轻松。图1是草莓蛋糕原照，图2是粉白海报成品，图3是官方搭子logo。画面左上是一张逆时针轻斜的产品原照，占约30%；右下是一张顺时针轻斜的图2完整大海报占约60%，两张白边照片重叠少量但不遮蛋糕或海报主要文字。左下留白放手写标题‘蛋糕没换’‘上新图终于换了’，右上空白写‘原图→海报’，红笔细箭头沿对角方向串起。同一只蛋糕同样五颗草莓，不能新增或减少，奶油样子不改。侧边仅一句‘我让百度搭子借排版，保留蛋糕本来的样子’。不要顶端大标题横幅，不做上下一模一样的两块卡，不加MEME人物夸张漫画、不加纸碎杂物。logo图3小放下角。无页码、原案例字眼、私信领取、价格、营养宣称。文字清晰不过多，小字AI辅助制作。",
+          "revisions": [],
+          "sha256": "a874d6a542665b787e3e6c01fdb934a11741818e1ebdd55fab8b4154c1667abf",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        },
+        {
+          "page": "02",
+          "purpose": "搭子界面、派活指令与打开成果",
+          "image": "assets/examples/bakery-20260917/cake/02.png",
+          "prompt_file": "assets/examples/bakery-20260917/cake/02.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/user-notes-20260917/bakery-poster/02.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/user-notes-20260917/bakery-poster/03.png"
+            },
+            {
+              "image_number": 3,
+              "path": "assets/examples/bakery-20260917/cake/materials/product.png"
+            },
+            {
+              "image_number": 4,
+              "path": "assets/examples/bakery-20260917/cake/03.png"
+            },
+            {
+              "image_number": 5,
+              "path": "assets/user-notes-20260917/bakery-poster/04.png"
+            }
+          ],
+          "prompt": "做一张3:4小红书笔记内页，清晰正常中文，无扭曲细字。图1只用其中真实搭子上传输入框UI，图2只用其中真实搭子左对话＋右侧图片预览器UI结构（删除原教程大字和旧蛋挞/牛角内容），图3是本篇产品原照，图4是本篇已生成海报，图5是上传的版式参考，官方logo沿用图1/图2中原有搭子标识。原生UI的按钮布局控件、文件图标和顶部任务标题保真。不要新造‘海报神器’按钮或必然弹出比例选项。\n本篇任务只做草莓奶油蛋糕，上传附件恰好两张：第一张是图3，名‘产品照片.png’，第二张是图5，名‘排版参考.png’。两张缩略图必须对应，不留image(32)或egg-tart等旧文件名。大幅真实UI里可读地展示这段用户指令：“用图1的草莓奶油蛋糕做3:4上新海报。图2只借主次层级，改成粉白甜品橱窗风，多留白。草莓数量、奶油花和蛋糕形状按原图保留。写“草莓奶油蛋糕”“给普通的一天，加一点甜”，不加价格和促销字。输出PNG。”。\n接着一个简短追加气泡：“粉色再淡一点，蛋糕别换样子，也别挡住草莓。”。输出PNG文件卡叫‘草莓奶油蛋糕上新.png’，并让图4成品在原生图片预览器中打开，内容与图4完全一致，不要只有下载卡。\n排版采用上下错位：左上中号标题‘草莓别加，奶油别换’，上半部宽幅搭子输入UI含两附件和完整指令；下半部右侧大幅原生图片预览窗口显示图4，左下只写追加指令和一根红细箭头。粉白底，少量樱桃红细线，两个UI窗口一上一下有明显错位但不能遮字；不要整个大电脑横框。\n官方logo只需一处，图外不印“原案例”“演示”“交付闭环”，无私信领取、页码标识、价格营养宣称。图底极小‘AI辅助制作’。留足空间，提示词可合理换行但不得删条件，特别是比例、商品保真与风格变化。",
+          "revisions": [],
+          "sha256": "bccd420fe58712dd935bbe3ea5e8abe19eff15d650799dfbd96750b0f4dd831d",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        },
+        {
+          "page": "03",
+          "purpose": "完整可保存海报",
+          "image": "assets/examples/bakery-20260917/cake/03.png",
+          "prompt_file": "assets/examples/bakery-20260917/cake/03.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/examples/bakery-20260917/cake/materials/product.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/user-notes-20260917/bakery-poster/04.png"
+            }
+          ],
+          "prompt": "制作一张竖版3:4草莓奶油蛋糕新品海报，清晰高品质。图1是产品身份，严格复制这一只白奶油圆形完整蛋糕、五颗红草莓（以原图实际可见五颗为准）和奶油花排布、白色圆纸托、抹面刮刀纹，不能变成切块、草莓不要增减、不加糖粉。图2只作文字主次和商品放大的基础参考；改成完全不同的现代粉白甜品橱窗风，极淡玫瑰粉上部与纯净奶白台面，轻柔自然光，一条细樱桃红边线，细腻正常宋体排字和小号无衬线，不用牛皮纸手写或复古咖啡色。主体放中下方，大幅好吃真实，顶部足够留白。准确文案只有‘草莓奶油蛋糕’（两行）、‘给普通的一天，加一点甜’、小英文‘STRAWBERRY & CREAM’和角落‘小店上新’。不要其它卖点、价格、店名、日期、促销气泡。不要UI教程或搭子logo，纯可用海报成果，底边极小‘AI辅助制作’。",
+          "revisions": [],
+          "sha256": "fda805f20fa3136eacd914660ee31822cf111e27f954d0b7628b8694f413dd0b",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        }
+      ],
+      "product_material": {
+        "image": "assets/examples/bakery-20260917/cake/materials/product.png",
+        "prompt_file": "assets/examples/bakery-20260917/cake/materials/product.prompt.md",
+        "source_type": "AI-generated product photograph style image",
+        "observed": "实际生成原料为五颗草莓，后续按这张图的五颗保持一致；原始提示词的六颗未实现。"
+      }
+    },
+    {
+      "id": "bagel",
+      "title": "这俩贝果，终于不用在工作台出道了",
+      "product": "原味贝果",
+      "copy": "assets/examples/bakery-20260917/bagel/发布文案.md",
+      "dumate_prompt": "assets/examples/bakery-20260917/bagel/搭子提示词.txt",
+      "cover_layout": "上大下三",
+      "pages": [
+        {
+          "page": "01",
+          "purpose": "成果钩子与前后变化",
+          "image": "assets/examples/bakery-20260917/bagel/01.png",
+          "prompt_file": "assets/examples/bakery-20260917/bagel/01.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/examples/bakery-20260917/bagel/materials/product.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/examples/bakery-20260917/bagel/03.png"
+            },
+            {
+              "image_number": 3,
+              "path": "assets/dumate-logo.png"
+            },
+            {
+              "image_number": 4,
+              "path": "assets/user-notes-20260917/bakery-poster/04.png"
+            },
+            {
+              "image_number": 5,
+              "path": "assets/user-notes-20260917/bakery-poster/02.png"
+            }
+          ],
+          "prompt": "3:4竖版小红书笔记封面，蓝白清爽、明确上方1张大图下方3张小图，留白整齐，表达产品图和参考图交给搭子做海报。图1是两只原味贝果原照，图2是蓝白贝果成品海报，图3是搭子官方logo，图4是用户提供蛋挞风格参考海报，图5是带真实搭子上传界面的教程原图。顶部仅一行短标题‘这两只贝果，终于有上新图了’。上方主体60%是图2完整大幅成品海报，保留全部文字和两只贝果，不再另画巨大的贝果。下方水平并列三张小图：左图1产品原照，中图4参考海报，右从图5只取原生搭子上传输入区域（不要整张教程）并将附件改成图1和图4，简短输入‘排成蓝白早餐小报，贝果别变’。三张下面分别写‘产品照’‘借排版’‘告诉搭子怎么改’。页底一行小字‘参考只借主次关系，颜色和文案按自己的来’和小图3logo。顶大底三的构图一眼明显。没有纸张斜放、没有上下前后两格、没有大面积标题压产品、没有页码或促销领取字。AI辅助制作极小标识。",
+          "revisions": [
+            {
+              "references": [
+                {
+                  "image_number": 1,
+                  "path": "assets/examples/bakery-20260917/revision-inputs/bagelCover.png"
+                },
+                {
+                  "image_number": 2,
+                  "path": "assets/examples/bakery-20260917/bagel/materials/product.png"
+                },
+                {
+                  "image_number": 3,
+                  "path": "assets/user-notes-20260917/bakery-poster/04.png"
+                }
+              ],
+              "prompt": "精准局部编辑。保持整张图的大图、三小图布局、全部标题、海报与Logo不变。只改最下方三张小图中的右侧搭子输入区：删除当前两张错误附件和旧英文文件名。换成两张正确附件：第一张‘产品照片.png’，缩略图用参考图2两只原味贝果；第二张‘排版参考.png’，缩略图用参考图3原版葡式蛋挞海报。文件名清晰简短，不显示文件大小。输入句‘排成蓝白早餐小报，贝果别变’以及原生按钮不变。不要修改其它两个小图，不要重排全图，不新增文字。"
+            }
+          ],
+          "sha256": "d99b77155da4864112b58ece52e49d25e1149a031fde4125d11c93523e7fc031",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        },
+        {
+          "page": "02",
+          "purpose": "搭子界面、派活指令与打开成果",
+          "image": "assets/examples/bakery-20260917/bagel/02.png",
+          "prompt_file": "assets/examples/bakery-20260917/bagel/02.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/user-notes-20260917/bakery-poster/02.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/user-notes-20260917/bakery-poster/03.png"
+            },
+            {
+              "image_number": 3,
+              "path": "assets/examples/bakery-20260917/bagel/materials/product.png"
+            },
+            {
+              "image_number": 4,
+              "path": "assets/examples/bakery-20260917/bagel/03.png"
+            },
+            {
+              "image_number": 5,
+              "path": "assets/user-notes-20260917/bakery-poster/04.png"
+            }
+          ],
+          "prompt": "做一张3:4小红书笔记内页，清晰正常中文，无扭曲细字。图1只用其中真实搭子上传输入框UI，图2只用其中真实搭子左对话＋右侧图片预览器UI结构（删除原教程大字和旧蛋挞/牛角内容），图3是本篇产品原照，图4是本篇已生成海报，图5是上传的版式参考，官方logo沿用图1/图2中原有搭子标识。原生UI的按钮布局控件、文件图标和顶部任务标题保真。不要新造‘海报神器’按钮或必然弹出比例选项。\n本篇任务只做原味贝果，上传附件恰好两张：第一张是图3，名‘产品照片.png’，第二张是图5，名‘排版参考.png’。两张缩略图必须对应，不留image(32)或egg-tart等旧文件名。大幅真实UI里可读地展示这段用户指令：“图1这两只原味贝果，帮我做3:4上新海报。图2只借大标题和商品主体的关系，改成蓝白早餐报纸风。保留两只贝果和原来的叠放，不加芝麻和夹心。写“早餐换个圈”“原味贝果”，不要价格和营养宣称。输出PNG。”。\n接着一个简短追加气泡：“装饰再少一点，别往贝果上加芝麻，产品名留清楚。”。输出PNG文件卡叫‘原味贝果上新.png’，并让图4成品在原生图片预览器中打开，内容与图4完全一致，不要只有下载卡。\n排版采用左宽右窄：左侧约75%宽是搭子任务对话与打开的图片预览上下连接，右侧一条竖向蓝白窄栏用三句短手写批注‘原味就是原味’‘别添芝麻和夹心’‘蓝白配色，字少一点’。上方小标题‘我把不能改的，先写清楚了’。不要与另外两篇相同的中央横窗，不做上方大标题下方三图，本页让界面和短批注成为主体。\n官方logo只需一处，图外不印“原案例”“演示”“交付闭环”，无私信领取、页码标识、价格营养宣称。图底极小‘AI辅助制作’。留足空间，提示词可合理换行但不得删条件，特别是比例、商品保真与风格变化。",
+          "revisions": [
+            {
+              "references": [
+                {
+                  "image_number": 1,
+                  "path": "assets/examples/bakery-20260917/revision-inputs/bagelUi.png"
+                },
+                {
+                  "image_number": 2,
+                  "path": "assets/user-notes-20260917/bakery-poster/04.png"
+                }
+              ],
+              "prompt": "精准局部编辑，保持全图文字、UI位置、贝果海报、右侧手写批注与logo不变。仅更正顶部第二张‘排版参考.png’附件的缩略图：它目前错误显示蓝白贝果最终海报，请用参考图2这张橙色复古‘葡式蛋挞’海报缩略图替换。第一张‘产品照片.png’的两只贝果缩略图保持。正文中间‘正在执行...’一行删除，留自然空白间距，因为下方已经打开成品。不要修改任何其它文字和图像，不要引入蛋挞到贝果成品里。输出相同3:4完整图片。"
+            }
+          ],
+          "sha256": "c10bf5af35377944e866e34a2a9edf776ccaf25b086cbc99b649fd5298b6c3d2",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        },
+        {
+          "page": "03",
+          "purpose": "完整可保存海报",
+          "image": "assets/examples/bakery-20260917/bagel/03.png",
+          "prompt_file": "assets/examples/bakery-20260917/bagel/03.prompt.md",
+          "references": [
+            {
+              "image_number": 1,
+              "path": "assets/examples/bakery-20260917/bagel/materials/product.png"
+            },
+            {
+              "image_number": 2,
+              "path": "assets/user-notes-20260917/bakery-poster/04.png"
+            }
+          ],
+          "prompt": "做一张独立烘焙店原味贝果上新海报，3:4竖版，高清清晰中文。图1必须保持产品：同样两只光面原味贝果，一平放一斜靠，金黄色圆孔，皮纹和数量、摆法不变，去除原工作台换版面环境。图2仅借用文字主次及商品放大，不沿用它的复古奶油色。全新蓝白早餐小报风：白色未涂布纸，钴蓝粗体‘早餐换个圈’醒目大标题，细网格线、像报头的‘THE BAGEL CLUB’，产品名‘原味贝果’，小字‘小店上新’。两只原样贝果占中部大片面积，下面留白，蓝色细线圈住圆孔的外侧不挡商品，角落一只极简小咖啡杯线稿，不画实物多配料。底部一句‘今天的早餐，简单一点。’。不要价格营养健康低脂宣传，不添芝麻夹心糖粉，不复制成三只，不加咖啡品牌。纯海报成果，无搭子工具logo，无UI或教程。下缘极小‘AI辅助制作’。不要奶油粉手账，不要深棕奢侈风，字体端正。",
+          "revisions": [],
+          "sha256": "148dca3859810e2a19dda064e5469811f80aa7e4dc9e81c5f83dbc6eeb9e6b99",
+          "dimensions": [
+            1086,
+            1448
+          ],
+          "source_type": "AI-generated editorial image"
+        }
+      ],
+      "product_material": {
+        "image": "assets/examples/bakery-20260917/bagel/materials/product.png",
+        "prompt_file": "assets/examples/bakery-20260917/bagel/materials/product.prompt.md",
+        "source_type": "AI-generated product photograph style image",
+        "observed": "后续以实际生成图片的外观、数量与配料为准。"
+      }
+    }
+  ]
+}
