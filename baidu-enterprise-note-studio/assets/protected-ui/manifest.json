@@ -1,0 +1,155 @@
+[
+  {
+    "id": "01-02",
+    "path": "assets/protected-ui/01-02.png",
+    "dimensions": [
+      1029,
+      664
+    ],
+    "previous_rectangle": [
+      24,
+      390,
+      1029,
+      664
+    ],
+    "sha256": "5d40ce59a4eb369cc3a932412f0e49f032ae19f00bb2e87c1fa2c6360b16f6b6",
+    "kind": "原操作界面",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "01-03",
+    "path": "assets/protected-ui/01-03.png",
+    "dimensions": [
+      1025,
+      654
+    ],
+    "previous_rectangle": [
+      32,
+      359,
+      1025,
+      654
+    ],
+    "sha256": "3ebf762e67c56528f5ff5d21387ceebd78b40c77063c3234b3eca5c47d3b42b6",
+    "kind": "原操作界面",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "02-02",
+    "path": "assets/protected-ui/02-02.png",
+    "dimensions": [
+      858,
+      518
+    ],
+    "previous_rectangle": [
+      111,
+      538,
+      858,
+      518
+    ],
+    "sha256": "329d6f7e96819e0bf22fe8d90c40927bff59c842b5b00b68f0225d18e9fb5b5d",
+    "kind": "原操作界面",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "02-03",
+    "path": "assets/protected-ui/02-03.png",
+    "dimensions": [
+      855,
+      514
+    ],
+    "previous_rectangle": [
+      108,
+      536,
+      855,
+      514
+    ],
+    "sha256": "e4ee4977479cc447ad03d04ad7c65e78178267673e447d31d83a04bb464784bb",
+    "kind": "原操作界面",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "02-04",
+    "path": "assets/protected-ui/02-04.png",
+    "dimensions": [
+      898,
+      427
+    ],
+    "previous_rectangle": [
+      72,
+      496,
+      898,
+      427
+    ],
+    "sha256": "d6a3e0d6ac01cd2ac579acc183478e6725649571a2c627c79354f4fb4536682e",
+    "kind": "原操作界面",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "02-05",
+    "path": "assets/protected-ui/02-05.png",
+    "dimensions": [
+      880,
+      566
+    ],
+    "previous_rectangle": [
+      110,
+      510,
+      880,
+      566
+    ],
+    "sha256": "ff9156d8dcf71d84d0e7073e0a0594c3d48fcbf5a0c55e18e5082783a45c7c3c",
+    "kind": "原操作界面",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "05-02",
+    "path": "assets/protected-ui/05-02.png",
+    "dimensions": [
+      861,
+      591
+    ],
+    "previous_rectangle": [
+      110,
+      601,
+      861,
+      591
+    ],
+    "sha256": "a4edfbafbe2ebbbf28bda5440387eacc5836cc1ba6b0124414005658d9827582",
+    "kind": "原传输功能示意",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "05-03",
+    "path": "assets/protected-ui/05-03.png",
+    "dimensions": [
+      861,
+      591
+    ],
+    "previous_rectangle": [
+      110,
+      601,
+      861,
+      591
+    ],
+    "sha256": "49224ef398eae79e8d6c21eb42480d3a8e1cfe4ca300c196cb2e90858a27881e",
+    "kind": "原传输功能示意",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  },
+  {
+    "id": "05-04",
+    "path": "assets/protected-ui/05-04.png",
+    "dimensions": [
+      861,
+      591
+    ],
+    "previous_rectangle": [
+      110,
+      601,
+      861,
+      591
+    ],
+    "sha256": "eeb802462a2e13f6486e3c55dda332fe1d7e548023ad2943a59d74fc872b478d",
+    "kind": "原传输功能示意",
+    "policy": "不得AI重画或改变文字；共享01-02和01-03保持原尺寸原位置；其余按任务记录位置"
+  }
+]

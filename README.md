@@ -1,4 +1,4 @@
-# 搭子图文场景工作室
+# 搭子与企业网盘图文工作室
 
 百度搭子（DuMate）小红书文案与成图 Skill，包含双账号 **96 篇原文、451 张原图**、逐页 OCR、追加学习的 **16 篇审核稿 / 72 张配图及完整正文**、审核退回记录、官方品牌物料、**18 项真实界面/成果物料**和离线检索脚本。
 
@@ -54,3 +54,22 @@ python3 dazi-note-studio/scripts/ui_materials.py verify
 使用示例：调用 `$dazi-note-studio`，参考烘焙上新写法做3篇新商品笔记。先查看该索引中的成图与提示词，分别采用上下、斜向、上大下三排版；用已有搭子UI作参考，AI编辑本篇附件、派活指令和打开的成果。原生控件保持准确，输入与成品始终对应。
 
 本批是基于既有UI参考制作的AI场景，不是本轮真实运行搭子的截图；原稿、AI商品原料、最终成图和修正前画面分开记录，不混入96篇原图库或真实UI库。
+
+
+## 百度网盘企业版 Skill · 2026-09-17
+
+新增独立的 [baidu-enterprise-note-studio](baidu-enterprise-note-studio/SKILL.md)。复制整个目录到 `~/.codex/skills/` 后调用 `$baidu-enterprise-note-studio`。
+
+**可画只获取封面模板参考 → AI生成新图 → 原企业版截图原样合成 → 检查图文。** 不默认在可画编辑设计。采用真人办公场景的钩子，功能、步骤和结果对应；同篇协调，同批构图有区别。企业版原操作截图不得AI重画，和搭子的AI场景创作规则分开。
+
+收录用户提供的9篇参考正文、35张原图、9份独立界面/功能示意，另有本轮5篇15图、发布文案与逐图实际提示词。共享云盘两篇、本地部署一篇、异地办公一篇、大文件传输一篇；5个复用区域的RGB像素一致。资料不代表所有套餐都包含所有功能。
+
+- [模板到AI成图流程](baidu-enterprise-note-studio/references/canva-to-image-workflow.md)
+- [原稿学习记录](baidu-enterprise-note-studio/references/source-learning-20260917.md)
+- [参考原文与原图](baidu-enterprise-note-studio/assets/references-20260917/manifest.json)
+- [5篇15图与提示词](baidu-enterprise-note-studio/assets/examples/enterprise-20260917/manifest.json)
+- [可画模板出处](baidu-enterprise-note-studio/references/canva-template-index.json)
+
+可画预览图仅用于本地创作参考，未作为模板素材打包进仓库；可按索引在可画重新获取。参考稿与官方物料版权归各自权利人，仓库不授予第三方素材再许可。
+
+校验：`python3 baidu-enterprise-note-studio/scripts/verify_assets.py`，无需第三方依赖。

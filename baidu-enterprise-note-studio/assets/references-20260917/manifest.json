@@ -1,0 +1,279 @@
+{
+  "date": "2026-09-17",
+  "path_base": "skill_root",
+  "reading_scope": "4篇新正文及17图、5篇旧正文及18图均已浏览；实际复用的保护UI另看原尺寸。异地办公新Markdown没有附图。",
+  "notes": [
+    {
+      "id": "NEW01",
+      "title": "企业数据安全焦虑？百度网盘本地私有化部署",
+      "text": "assets/references-20260917/NEW01/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/NEW01/01.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640285226-5752875d-8ab2-4a3e-8fea-04ee0d980eb7.png",
+          "sha256": "1f3072a5437a81287e45cae038a8908d7bb1a9ff3c30b905d8842094c2d675a0"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/NEW01/02.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640290824-d5310653-857b-421c-bdc4-e099437e87f2.png",
+          "sha256": "f54c9b3eb87d65e61e7cc1bfbdebd73c64e885da60f49b26f13ae348073f7d91"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/NEW01/03.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640295312-deca846f-b31b-4475-8741-05797246385b.png",
+          "sha256": "1358f3fbdcc70bd02235843b33d052b6d30df7eb06c57d8bcd9af08e47085941"
+        },
+        {
+          "page": 4,
+          "path": "assets/references-20260917/NEW01/04.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640299581-43fb7b54-a471-44ce-858f-b9038bf10ceb.png",
+          "sha256": "604fa82e0a50890b94cc620f7b55812954756df21a72703706dd6d6273664be2"
+        }
+      ],
+      "source": "用户提供Markdown及其中图片链接",
+      "review_status": "用户参考稿；未提供平台审核结论"
+    },
+    {
+      "id": "NEW02",
+      "title": "团队办公神器🔥资料管理省心了",
+      "text": "assets/references-20260917/NEW02/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/NEW02/01.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640123483-96d5375d-b7f2-40ba-a1c4-deb5547ff900.png",
+          "sha256": "8636bd3f20c06b28832217e917a1d838c9b9e31e1d47aa710b18bd4d2ffcfdb9"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/NEW02/02.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640133307-567a241a-6532-45bf-889c-709052725cf3.png",
+          "sha256": "411e4aa98c1e00a567e433189a046a966ae52a796a44e72d2d3e8203bb884eb9"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/NEW02/03.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640138321-f3abba1f-09cc-49d4-a69d-5a9cfa9e0179.png",
+          "sha256": "00ab50a6c6fb9ebe4e75be42ab45a94a2ea3576a534f2d408b1e187a2461c017"
+        },
+        {
+          "page": 4,
+          "path": "assets/references-20260917/NEW02/04.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640142174-6dfd7e95-87ec-432b-b1f6-27e0d34e5668.png",
+          "sha256": "9f5e39cb5b1c9bda1adeda732b97479e351c7c75a8d7bf8ecc4527ff3c609046"
+        },
+        {
+          "page": 5,
+          "path": "assets/references-20260917/NEW02/05.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640146395-e14004a2-9cd8-4e6d-8eeb-772c1ac37c36.png",
+          "sha256": "9d13e5c028af04cca61dd596dbb14f6be2b5e707a2808a123d96d4c2bf1ace13"
+        },
+        {
+          "page": 6,
+          "path": "assets/references-20260917/NEW02/06.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640151723-cf4d80d5-0187-44c1-8a9a-01fe9472ce6a.png",
+          "sha256": "d66b4a000f704f86517518960b21c04fd921981be813417369c688351cb81261"
+        }
+      ],
+      "source": "用户提供Markdown及其中图片链接",
+      "review_status": "用户参考稿；未提供平台审核结论"
+    },
+    {
+      "id": "NEW03",
+      "title": "团队大文件传输｜告别发文件卡顿崩溃✨",
+      "text": "assets/references-20260917/NEW03/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/NEW03/01.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640226432-d23c70cb-b519-4fe5-99b3-4b40420e3990.png",
+          "sha256": "8bab1e4decd33be0a8a4f9a44e54ca97ed35a6a257a47ec2ced19f8043aa763c"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/NEW03/02.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640230848-fbf4402d-861c-495b-a009-2b6e228646de.png",
+          "sha256": "7bc48b08074f48782b836d1bbd66ce46bf07e2561fe151c3d3176c625023700e"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/NEW03/03.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640235496-b544105e-73e8-4837-a910-240e184f893f.png",
+          "sha256": "6d33f879e3d97002eeedb82f34260b9d0a36c1fac6fbe076e3510f94d22b68d6"
+        },
+        {
+          "page": 4,
+          "path": "assets/references-20260917/NEW03/04.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640240610-92f36c80-dec0-468b-921f-81bcf1d538a7.png",
+          "sha256": "639536920da8b02c1eb83775d8c499d73e15a33814450756562ac02f701b6e5e"
+        },
+        {
+          "page": 5,
+          "path": "assets/references-20260917/NEW03/05.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640245093-78dc7d71-3377-413d-bb4c-fb9d059b3936.png",
+          "sha256": "4a67703f2f7ba802d788ec67c290c2213545ac88d7faacf85a7dfc7ec4dc5268"
+        },
+        {
+          "page": 6,
+          "path": "assets/references-20260917/NEW03/06.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640250348-19580ad2-40ac-497e-87db-79c13fccc4ce.png",
+          "sha256": "ff1c7022bca585ffe2ddcbaa9d69c28054746a20fbce10283e89408bac5b6933"
+        },
+        {
+          "page": 7,
+          "path": "assets/references-20260917/NEW03/07.png",
+          "source_url": "https://cdn.nlark.com/yuque/0/2026/png/32412586/1789640254622-57712871-7eb0-4ddc-98d2-c562bd0c7942.png",
+          "sha256": "440cf98d1fa43333e75e92a32bd005827c5424f340147c16535cf2a97f65a2d3"
+        }
+      ],
+      "source": "用户提供Markdown及其中图片链接",
+      "review_status": "用户参考稿；未提供平台审核结论"
+    },
+    {
+      "id": "NEW04",
+      "title": "异地办公协作难？10分钟打通资料共享✅",
+      "text": "assets/references-20260917/NEW04/原文.md",
+      "images": [],
+      "source": "用户提供Markdown及其中图片链接",
+      "review_status": "用户参考稿；未提供平台审核结论"
+    },
+    {
+      "id": "OLD01",
+      "title": "几个人的小团队，文件怎么放到一起？",
+      "text": "assets/references-20260917/OLD01/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/OLD01/01.png",
+          "sha256": "6df7808a0548dbd6c1066c8adb77c394b4cdb04550ae9ea2920cf10ceb377578"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/OLD01/02.png",
+          "sha256": "a323444ae0aac5f724ae815bea2625db50db3908a9c8f04c58b1ba3bbda984ef"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/OLD01/03.png",
+          "sha256": "6957442ae701a4e6af00b8cd9e5f9b5a5e874944e75fed8da0a0cbbbc5dfc7c6"
+        }
+      ],
+      "source": "用户提供五种风格重制ZIP；含既往AI外围画面与原UI",
+      "review_status": "历史制作稿，不作为本轮已发布或审核通过证据"
+    },
+    {
+      "id": "OLD02",
+      "title": "群里有四个最终版，到底改哪份？",
+      "text": "assets/references-20260917/OLD02/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/OLD02/01.png",
+          "sha256": "9135d5ce004fdebaa503fb8e955592ffc33a1d158c40751301c8580676e87168"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/OLD02/02.png",
+          "sha256": "1b1bc6050bb4e43f8b9293eec06b880c27ec8a2222dac59d0f8bae9565fb3edf"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/OLD02/03.png",
+          "sha256": "c34cb295f66a70b96edbc0de64d0524dd05a3952c956fbfee3de0cc5dc562a69"
+        },
+        {
+          "page": 4,
+          "path": "assets/references-20260917/OLD02/04.png",
+          "sha256": "02a80ab0a793192a5436f6f741d45ff7ac79878bb86b622a0317a4d2a1ef8155"
+        },
+        {
+          "page": 5,
+          "path": "assets/references-20260917/OLD02/05.png",
+          "sha256": "60fc55b9b5cc8c0533107079b37cd3c600a182562c4a51600b33bfbe292dccda"
+        }
+      ],
+      "source": "用户提供五种风格重制ZIP；含既往AI外围画面与原UI",
+      "review_status": "历史制作稿，不作为本轮已发布或审核通过证据"
+    },
+    {
+      "id": "OLD03",
+      "title": "老板说接个AI，我先找了半天资料",
+      "text": "assets/references-20260917/OLD03/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/OLD03/01.png",
+          "sha256": "a8938528694f1c7de52fdb19119478f763b4b90fc800966271b4bc72d30ead3e"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/OLD03/02.png",
+          "sha256": "1191a9c53649fc737a8cb841e74e1021928e52ac172c75e35a9535fab6fae32d"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/OLD03/03.png",
+          "sha256": "b93b8a2a01aead9e2f123d596ec4909850a9f7dc15153a9a6c7309037c638881"
+        }
+      ],
+      "source": "用户提供五种风格重制ZIP；含既往AI外围画面与原UI",
+      "review_status": "历史制作稿，不作为本轮已发布或审核通过证据"
+    },
+    {
+      "id": "OLD04",
+      "title": "公司存下来的，不只是文件",
+      "text": "assets/references-20260917/OLD04/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/OLD04/01.png",
+          "sha256": "99afd1fd3ae3b5eb620057f1296c2f1ce8f7e8b2c933e2f5b9ff52888c1769b0"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/OLD04/02.png",
+          "sha256": "dcef1e3edee212e5af1a4852f35b3e50ac0de543736f42166faca2a5bcd1ce44"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/OLD04/03.png",
+          "sha256": "641b2748218632e006b98c8dcaaf695aabb6fc0bb7b4a165469ca867ef9c1c8c"
+        }
+      ],
+      "source": "用户提供五种风格重制ZIP；含既往AI外围画面与原UI",
+      "review_status": "历史制作稿，不作为本轮已发布或审核通过证据"
+    },
+    {
+      "id": "OLD05",
+      "title": "我：发完了！对方：还在下载……",
+      "text": "assets/references-20260917/OLD05/原文.md",
+      "images": [
+        {
+          "page": 1,
+          "path": "assets/references-20260917/OLD05/01.png",
+          "sha256": "aa231c5047f9bec79b3cf71c2a6fb40bdb9902e9e52a2c9abd0c5ee966b73e2d"
+        },
+        {
+          "page": 2,
+          "path": "assets/references-20260917/OLD05/02.png",
+          "sha256": "ad2bc1ce0944d5da3c56d636181735aa2a7616c35637636f8378c7ccdd8afec1"
+        },
+        {
+          "page": 3,
+          "path": "assets/references-20260917/OLD05/03.png",
+          "sha256": "d8ac41032a23e455e6766aca9452c3fbf2530c7c4c8f90ffd613cf37d4601a62"
+        },
+        {
+          "page": 4,
+          "path": "assets/references-20260917/OLD05/04.png",
+          "sha256": "122436712583d9d25161ba397d24c676de9e11d62d83bcf5d61243b009b9e3f6"
+        }
+      ],
+      "source": "用户提供五种风格重制ZIP；含既往AI外围画面与原UI",
+      "review_status": "历史制作稿，不作为本轮已发布或审核通过证据"
+    }
+  ]
+}
