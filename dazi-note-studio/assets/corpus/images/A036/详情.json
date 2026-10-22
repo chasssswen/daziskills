@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 36,
+  "noteId": "6a9532820000000029034103",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9532820000000029034103?xsec_token=ABqj6PqQFvBXuVXPORZKAfjEqnJrTpTuW2GjIXOAAXoOI=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:05:53.078Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/a8116265d99de7f90c77cf411ea19c35/spectrum/1040g34o324hcknr074405nuv75gg8sn7fgl2s0g!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 193918,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/962862017c3448028c914f38c3d1e47c/spectrum/1040g34o324hcknr0744g5nuv75gg8sn7cb9uhfg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 118030,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/265d38537e8debb2ab318d416bc8d379/spectrum/1040g34o324hcknr074505nuv75gg8sn7b5cg2gg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 116932,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/98f69577f635fa43936c2e5897f076a6/spectrum/1040g34o324hcknr0745g5nuv75gg8sn7scoqb7g!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 96122,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9532820000000029034103?xsec_token=ABqj6PqQFvBXuVXPORZKAfjEqnJrTpTuW2GjIXOAAXoOI=&xsec_source=pc_user",
+  "detailTitle": "我找回了QQ空间以前删掉的299条说说",
+  "textReadFromDetail": true,
+  "bodyTextLength": 396
+}

@@ -1,0 +1,99 @@
+{
+  "homepageIndex": 17,
+  "noteId": "6a8d77fd0000000021030ba8",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8d77fd0000000021030ba8?xsec_token=ABkm1khhN8SD3b9Q9cl9dSb-nlxQTRVKDeAdilPyo3Krk=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "爆款不是玄学🔥AI拆解直接复刻",
+  "declaredPages": 7,
+  "actualReadCount": 7,
+  "savedCount": 7,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/7",
+      "observedFraction": "1/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/ecc477788a1745bc698acf63144ef2e2/spectrum/1040g34o3249r3isc72a05q7jnjbdu8mudveusk0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/7",
+      "observedFraction": "2/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/481a18834b4955e07b7d9c09a1070908/spectrum/1040g34o3249r3isc729g5q7jnjbdu8muaqu4agg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/7",
+      "observedFraction": "3/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/ea8c777a166c466697278189384c3fd1/spectrum/1040g34o3249r3isc72905q7jnjbdu8muis7780o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/7",
+      "observedFraction": "4/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/85cc04192b53f0485841d90f5e5847ac/spectrum/1040g34o3249r3isc728g5q7jnjbdu8mudnk2spo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/7",
+      "observedFraction": "5/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/fbac7d07f8ce4e56d56a2d8397e9e062/spectrum/1040g34o3249r3isc72805q7jnjbdu8mu32594kg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    },
+    {
+      "page": 6,
+      "expectedFraction": "6/7",
+      "observedFraction": "6/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/285f01e28ca4f6f2b773bb16b38b8e52/spectrum/1040g34o3249r3isc727g5q7jnjbdu8muufaetug!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "06.webp"
+    },
+    {
+      "page": 7,
+      "expectedFraction": "7/7",
+      "observedFraction": "7/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/9b6914becc6d540f98923e12995c1006/spectrum/1040g34o3249r3isc72705q7jnjbdu8mutkt1280!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "07.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:24:07.162Z",
+  "mediaType": "image-text"
+}

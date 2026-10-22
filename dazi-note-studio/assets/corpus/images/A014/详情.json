@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 14,
+  "noteId": "6a963c370000000028029fd0",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a963c370000000028029fd0?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOvGYAdUfIvJKoe1zDQ78rrE=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:03:48.652Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/02178101d63445f97cc3659e58909c67/spectrum/1040g0k0324id2nm772005nuv75gg8sn7gu6e8i8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 957,
+        "height": 1280
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 256532,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/f8c42f60ecec89dbf07639a11b77c08c/spectrum/1040g0k0324id2nm7720g5nuv75gg8sn7lgju51o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 957,
+        "height": 1280
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 137542,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/a921bcdd34a99e46918bf079d21e321f/spectrum/1040g0k0324id2nm772105nuv75gg8sn7o1pk8v0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 957,
+        "height": 1280
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 195256,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/1b180b5139a3c619a8f3173a5baa185e/spectrum/1040g0k0324id2nm7721g5nuv75gg8sn7pgch3i8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 957,
+        "height": 1280
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 229694,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a963c370000000028029fd0?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOvGYAdUfIvJKoe1zDQ78rrE=&xsec_source=pc_user",
+  "detailTitle": "终于有人把市场分析给说清楚了！",
+  "textReadFromDetail": true,
+  "bodyTextLength": 578
+}

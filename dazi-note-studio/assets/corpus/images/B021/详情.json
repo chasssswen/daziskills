@@ -1,0 +1,40 @@
+{
+  "homepageIndex": 21,
+  "noteId": "6a8c09e3000000003400ed2a",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8c09e3000000003400ed2a?xsec_token=ABdb0P7qea8oqZeB1Gs9FB3MoIQKLZ_YuA9A0fUJjHSF4=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "产研团队亲自下场，这事不简单",
+  "declaredPages": 2,
+  "actualReadCount": 2,
+  "savedCount": 2,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/2",
+      "observedFraction": "1/2",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/a288adc2b31bbf6fc8c194bea9ea5d43/spectrum/1040g0k03248da2kmn40g5q7jnjbdu8mutd9bkpg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/2",
+      "observedFraction": "2/2",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/c0b87db4c241fdc04da664be2766556d/spectrum/1040g0k03248da2kmn4005q7jnjbdu8mud1moj58!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    }
+  ],
+  "openedAt": "2026-09-02T07:24:34.904Z",
+  "mediaType": "image-text"
+}

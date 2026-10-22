@@ -1,0 +1,77 @@
+{
+  "homepageIndex": 34,
+  "noteId": "6a8583f70000000025004971",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8583f70000000025004971?xsec_token=ABve5BjW8TLugJbPzVGmdnRXDBlOEX5OSjEp2zJcC172A=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "为了拼豆 我直接做了个图纸生成器",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/8f37125062b7d4b6af6341f9146bd0a7/spectrum/1040g0k032422fasi70205q7jnjbdu8mu3rlai7o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/b7bd1a5d92cb14de340a2f409d620314/spectrum/1040g0k032422fasi701g5q7jnjbdu8mub1mr6b0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/42d7500fbe9015b6dad17cfdbca88654/spectrum/1040g0k032422fasi70105q7jnjbdu8mucmeta30!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/7b0151e612f2d7ea1b336cacb32af996/spectrum/1040g0k032422fasi700g5q7jnjbdu8mu9jjp09o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/b285f70838dfc718c675a2d7d0206b27/spectrum/1040g0k032422fasi70005q7jnjbdu8mut4tn0fg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:26:17.004Z",
+  "mediaType": "image-text"
+}

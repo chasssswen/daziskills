@@ -1,0 +1,75 @@
+{
+  "homepageIndex": 38,
+  "noteId": "6a8401c300000000330342b6",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8401c300000000330342b6?xsec_token=ABQPy5ruS3GO7bOFqijbwwkG2vRNwoL8vorAm12Ds--C0=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "给 4 岁女儿做启蒙工作台，主打一个自律",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/a0a5fe50c3e52010846f22d9cdc1c065/spectrum/1040g34o3240jdhpagm705q7jnjbdu8muj8ut7r8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/bef300e3490721516aeabcbc7b513110/spectrum/1040g34o3240jdhpagm6g5q7jnjbdu8mu3c5csvg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/795ef3ab3515233b39954ea2b3709049/spectrum/1040g34o3240jdhpagm605q7jnjbdu8mub5gr0tg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/666bc58890214a02bccb29e30df9f602/spectrum/1040g34o3240jdhpagm5g5q7jnjbdu8muravfkq8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/6116ea87d68e59cb7ecba220b6ec9119/spectrum/1040g34o3240jdhpagm505q7jnjbdu8mub16dpfg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:26:54.224Z",
+  "mediaType": "image-text"
+}

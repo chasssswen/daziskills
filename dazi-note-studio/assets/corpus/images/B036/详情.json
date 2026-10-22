@@ -1,0 +1,66 @@
+{
+  "homepageIndex": 36,
+  "noteId": "6a85795600000000060040c7",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a85795600000000060040c7?xsec_token=ABve5BjW8TLugJbPzVGmdnRfm4rdGFOLlu4wMmPqYRLuM=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "百度搭子半小时搞定一套品牌设计PPT💼",
+  "declaredPages": 4,
+  "actualReadCount": 4,
+  "savedCount": 4,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/4",
+      "observedFraction": "1/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/e87ea60a63a72bff47a60883a0cfd1b2/spectrum/1040g0k032420cguen2fg5q7jnjbdu8mu5u8q65g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/4",
+      "observedFraction": "2/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/024f4ffd9d161b49190979cf99e1ded3/spectrum/1040g0k032420cguen2f05q7jnjbdu8mu371vkb0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/4",
+      "observedFraction": "3/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/e05059a032b5fe967ed80b071446a856/spectrum/1040g0k032420cguen2eg5q7jnjbdu8munmmohm0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/4",
+      "observedFraction": "4/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/5eb1d83288eaadd6290111fa526f56b0/spectrum/1040g0k032420cguen2e05q7jnjbdu8mu51jkito!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "04.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    }
+  ],
+  "openedAt": "2026-09-02T07:26:36.145Z",
+  "mediaType": "image-text"
+}

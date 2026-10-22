@@ -1,0 +1,66 @@
+{
+  "homepageIndex": 14,
+  "noteId": "6a8d7f2500000000070042c9",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8d7f2500000000070042c9?xsec_token=ABkm1khhN8SD3b9Q9cl9dSb2XupyWp-ycvPSxSrTay9io=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "工作太乱，我做了个待办和日报互转的工作台",
+  "declaredPages": 4,
+  "actualReadCount": 4,
+  "savedCount": 4,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/4",
+      "observedFraction": "1/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/8e74b5d318543dc1a5c9dfc4b3018be0/spectrum/1040g34o3249rv866725g5q7jnjbdu8mubv264ng!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/4",
+      "observedFraction": "2/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/efb7760fd44cc0c599926df192011421/spectrum/1040g34o3249rv86672505q7jnjbdu8muhegnld8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/4",
+      "observedFraction": "3/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/7104d8fbd9fa838d7fad2ad970c0c3dc/spectrum/1040g34o3249rv866724g5q7jnjbdu8mug62ufqg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/4",
+      "observedFraction": "4/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/14e27e5d0ab72d324f7538f7216c17cd/spectrum/1040g34o3249rv86672405q7jnjbdu8mudqhc03g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:23:45.441Z",
+  "mediaType": "image-text"
+}

@@ -1,0 +1,73 @@
+{
+  "homepageIndex": 1,
+  "noteId": "6a96ae9b0000000011036dd9",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a96ae9b0000000011036dd9?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOgTRvk_YKvmCmV0TRuJuRDU=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "用AI一句话生成高保真官网！🙌（附教程）",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/c3477f83676b332a24f48007e244abd5/spectrum/1040g34o324ir10p974405q7jnjbdu8mujps7448!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/21e39219520f0c6740927cfba54fd101/spectrum/1040g34o324ir10p9743g5q7jnjbdu8muo8pteco!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "02.webp"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/e4e44f3a1d70aaa90f0b05a7ed905d60/spectrum/1040g34o324ir10p974305q7jnjbdu8mu8pbt7mo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "03.webp"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/2ec8f70c7e9ada7717d84db718c5f7f4/spectrum/1040g34o324ir10p9742g5q7jnjbdu8muqm4lsr0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/922187fd199388106f9fbec19cd2ffd7/spectrum/1040g34o324ir10p9744g5q7jnjbdu8mu2ncico0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:22:13.054Z",
+  "mediaType": "image-text"
+}

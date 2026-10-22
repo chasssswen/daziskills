@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 35,
+  "noteId": "6a9532a100000000200351f2",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9532a100000000200351f2?xsec_token=ABqj6PqQFvBXuVXPORZKAfjGuBxE65G4UY3WQHW5Gpb4s=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:05:46.613Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/e0f0fb503eefd5903d808817ddc64d58/spectrum/1040g34o324hclaf80s405nuv75gg8sn7p5jahig!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 98452,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/b077e13720c07065c7010d59edb03f31/spectrum/1040g34o324hclaf80s4g5nuv75gg8sn70lrdog0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 134768,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/08e578221d19c39db06f7651ca3b3f05/spectrum/1040g34o324hclaf80s505nuv75gg8sn7cmkj0c0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 106492,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/ee113ceb3d2fa3f357b2794b59c77520/spectrum/1040g34o324hclaf80s5g5nuv75gg8sn7us9c518!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 118696,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9532a100000000200351f2?xsec_token=ABqj6PqQFvBXuVXPORZKAfjGuBxE65G4UY3WQHW5Gpb4s=&xsec_source=pc_user",
+  "detailTitle": "🔥一键恢复QQ空间记忆 | GetQzonehistory",
+  "textReadFromDetail": true,
+  "bodyTextLength": 464
+}

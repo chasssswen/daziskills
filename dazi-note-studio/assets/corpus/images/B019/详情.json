@@ -1,0 +1,66 @@
+{
+  "homepageIndex": 19,
+  "noteId": "6a8c005a000000003302230f",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8c005a000000003302230f?xsec_token=ABdb0P7qea8oqZeB1Gs9FB3I9jsVAUyROB9qjqFddUT1U=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "掉秤计划👍AI测算热量缺口推荐减脂食谱",
+  "declaredPages": 4,
+  "actualReadCount": 4,
+  "savedCount": 4,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/4",
+      "observedFraction": "1/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/c9752ad55af08a57c4dd4d4d4487bc4d/spectrum/1040g34o3248d81bj72405q7jnjbdu8mu6gn4u0o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/4",
+      "observedFraction": "2/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/894c5e5a589367d10fbe27e46e548995/spectrum/1040g0k03248d86ed0m005q7jnjbdu8muc5gie8g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/4",
+      "observedFraction": "3/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/749dbd65063b9707201af4086cbdf2b7/spectrum/1040g34o3248d81bj723g5q7jnjbdu8mu5s927p0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/4",
+      "observedFraction": "4/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/d4ca337ca7d4179a982b8bc0c26ccaa4/spectrum/1040g34o3248d81bj72305q7jnjbdu8mu0jjg10o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:24:22.253Z",
+  "mediaType": "image-text"
+}

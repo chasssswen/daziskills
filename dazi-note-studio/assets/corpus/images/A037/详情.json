@@ -1,0 +1,112 @@
+{
+  "homepageIndex": 37,
+  "noteId": "6a9532450000000025039f9f",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9532450000000025039f9f?xsec_token=ABqj6PqQFvBXuVXPORZKAfjEeu3toNBpL1_oJAn0yiggQ=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:05:58.899Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 6,
+  "sourceImageCount": 6,
+  "checkedImageCount": 6,
+  "downloadedImageCount": 6,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/6",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/d9c3dadec976698c0c01428df8059e4c/spectrum/1040g34o324hcjmro6u6g5nuv75gg8sn7uesrlno!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 51270,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/6",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/fee1ebc584edd653ceccce2b0cdd8ce2/spectrum/1040g34o324hcjmro6u605nuv75gg8sn74g8qcto!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 94494,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/6",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/39c5d5d8d16279119ef856f94253d0f9/spectrum/1040g34o324hcjmro6u705nuv75gg8sn7gk3krp0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 89664,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/6",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/57b2de82eafb60dac6e765be65dd80ad/spectrum/1040g34o324hcjmro6u7g5nuv75gg8sn70hfbnk0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 89610,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/6",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/c154453af143e9f9e7c871797ffb3c3a/spectrum/1040g34o324hcjmro6u805nuv75gg8sn7g31c3uo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 73230,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 6,
+      "fraction": "6/6",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/77d010ab0d6fe59824dfc251b6e3e229/spectrum/1040g34o324hcjmro6u8g5nuv75gg8sn73gb5bcg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "06.webp",
+      "captureMethod": "resource",
+      "bytes": 72208,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9532450000000025039f9f?xsec_token=ABqj6PqQFvBXuVXPORZKAfjEeu3toNBpL1_oJAn0yiggQ=&xsec_source=pc_user",
+  "detailTitle": "12年前删除的说说和留言，居然还能恢复🔥",
+  "textReadFromDetail": true,
+  "bodyTextLength": 461
+}

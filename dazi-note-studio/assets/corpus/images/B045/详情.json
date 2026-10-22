@@ -1,0 +1,53 @@
+{
+  "homepageIndex": 45,
+  "noteId": "6a82c4ab000000002701eea4",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a82c4ab000000002701eea4?xsec_token=ABi7n2RZ7FtSrhC7PohVNLTLagJqcSr6qgOCw4WLe3YpA=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "旅行攻略做到头秃？百度搭子直接出保姆级",
+  "declaredPages": 3,
+  "actualReadCount": 3,
+  "savedCount": 3,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/3",
+      "observedFraction": "1/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/f17f63e7d825658ba0801da0819cdfa7/spectrum/1040g34o323vcmo3r70405q7jnjbdu8munu3aa2g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/3",
+      "observedFraction": "2/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/db340d9bdc53148d1023751806bc2d51/spectrum/1040g34o323vcmo3r703g5q7jnjbdu8muvbefc3g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/3",
+      "observedFraction": "3/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/afe42215baec22886042df10a0c29cb5/spectrum/1040g34o323vcmo3r70305q7jnjbdu8mu02s6kig!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "03.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:27:52.044Z",
+  "mediaType": "image-text"
+}

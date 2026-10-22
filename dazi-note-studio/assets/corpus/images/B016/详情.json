@@ -1,0 +1,77 @@
+{
+  "homepageIndex": 16,
+  "noteId": "6a8d7ca2000000002303fb3b",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8d7ca2000000002303fb3b?xsec_token=ABkm1khhN8SD3b9Q9cl9dSby6dy5v4b9Hg_YiA6uwVbVE=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "一句话就能点餐，AI实现商业闭环",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/bac31340766abd2195cf12d90f048742/spectrum/1040g34o3249rkuv7mu705q7jnjbdu8mulmg8o1g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/a8f9b9fe3badb4cc714af0262849762f/spectrum/1040g34o3249rkuv7mu6g5q7jnjbdu8mu8via00g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1454,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/a52e711913cdbff46b2c83ad78fea66b/spectrum/1040g34o3249rkuv7mu605q7jnjbdu8muf610h3o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1454,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/3dcf25984057d69b918173abdbc3a5ff/spectrum/1040g34o3249rkuv7mu5g5q7jnjbdu8mu046g2ho!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1454,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021524/36960bd1a4447eae554143606c6c36f1/spectrum/1040g34o3249rkuv7mu505q7jnjbdu8muqvneuig!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1454,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:23:59.766Z",
+  "mediaType": "image-text"
+}

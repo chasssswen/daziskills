@@ -1,0 +1,77 @@
+{
+  "homepageIndex": 49,
+  "noteId": "6a800b800000000025007112",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a800b800000000025007112?xsec_token=ABX8L62uoeJf1ROZy_VdsGfni6ukGjXyFctvSFrfdxFAI=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "周报这件事，真的可以交给AI",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/598d88c6c7aa30da63558c9c4589c25b/spectrum/1040g34o323snjubr0m7g5q7jnjbdu8mu3iojqtg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/753af4b4e383bc8c8a8d84028d3afe3e/spectrum/1040g34o323snjubr0m705q7jnjbdu8muv87umkg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/3c53ab70161482216c2bc75338de1262/spectrum/1040g34o323snjubr0m6g5q7jnjbdu8muctmucr0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/452d268308e1f977ad1bc05c9507862b/spectrum/1040g34o323snjubr0m605q7jnjbdu8mu7osqim8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/989dae194a84f2f05dd1e56ee23fc11f/spectrum/1040g34o323snjubr0m5g5q7jnjbdu8mumaddefg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:28:26.387Z",
+  "mediaType": "image-text"
+}

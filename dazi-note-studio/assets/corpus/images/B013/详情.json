@@ -1,0 +1,84 @@
+{
+  "homepageIndex": 13,
+  "noteId": "6a8ea8a20000000029029e5c",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8ea8a20000000029029e5c?xsec_token=ABhPf6Pj1_KSlro7C6kYpfQPTHrVrVh9PAvDN4QW7ABWc=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "用AI一周快速复习完一学期的数学",
+  "declaredPages": 6,
+  "actualReadCount": 6,
+  "savedCount": 6,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/6",
+      "observedFraction": "1/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/56341d8eba1c647127ef5df0f960af82/spectrum/1040g0k0324b064qs0s305q7jnjbdu8mugo2f56g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/6",
+      "observedFraction": "2/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/18d682eb7c76c77b75f7cb51384d4480/spectrum/1040g0k0324b064qs0s2g5q7jnjbdu8muue99cf8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "02.webp"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/6",
+      "observedFraction": "3/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/3c64e665ea9f5163cabed016aea77055/spectrum/1040g0k0324b064qs0s205q7jnjbdu8mujgoo9p0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "03.webp"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/6",
+      "observedFraction": "4/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/d6abe0928f884b925e13bbfc00e17b6c/spectrum/1040g0k0324b064qs0s1g5q7jnjbdu8mut7qqadg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/6",
+      "observedFraction": "5/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/a7b31be0aebab42fb00ecabddb9ac740/spectrum/1040g0k0324b064qs0s0g5q7jnjbdu8mu86ual80!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    },
+    {
+      "page": 6,
+      "expectedFraction": "6/6",
+      "observedFraction": "6/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/0885e1ea4f4deaf6abeb1fd5b673f0de/spectrum/1040g0k0324b064qs0s005q7jnjbdu8murhfdqto!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "06.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    }
+  ],
+  "openedAt": "2026-09-02T07:23:36.725Z",
+  "mediaType": "image-text"
+}

@@ -1,0 +1,66 @@
+{
+  "homepageIndex": 9,
+  "noteId": "6a8fe5000000000025011377",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8fe5000000000025011377?xsec_token=AB-aaVvJGn24sGjKTOXvksA_6NX_iOI1IXznaMLQVQ7KI=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "旅行阴天不出片？百度搭子拯救废片🌥️",
+  "declaredPages": 4,
+  "actualReadCount": 4,
+  "savedCount": 4,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/4",
+      "observedFraction": "1/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/25c02767bfe32de3874efd9e73d107d5/spectrum/1040g34o324c6tira0m5g5q7jnjbdu8murf34ga0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/4",
+      "observedFraction": "2/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/728becd5ebb9ec181b76ef6563803db9/spectrum/1040g34o324c6tira0m505q7jnjbdu8muhbi8j9g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/4",
+      "observedFraction": "3/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/5ddeafa233f8b59610b65f4eb96326e8/spectrum/1040g34o324c6tira0m4g5q7jnjbdu8muos76g4o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/4",
+      "observedFraction": "4/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/d787c52413b4b86b2f8adc1394c16c4b/spectrum/1040g34o324c6tira0m405q7jnjbdu8mu2jg4u08!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:23:06.037Z",
+  "mediaType": "image-text"
+}

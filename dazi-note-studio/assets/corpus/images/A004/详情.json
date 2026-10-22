@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 4,
+  "noteId": "6a96408f00000000280321bf",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a96408f00000000280321bf?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOsuGPO0NAJp23TGT57xotCE=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:02:36.344Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 5,
+  "sourceImageCount": 5,
+  "checkedImageCount": 5,
+  "downloadedImageCount": 5,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/38a49a85b5cf8ed74df5b7ff8d0d2aeb/spectrum/1040g0k0324idj5pj74005nuv75gg8sn7igoivl8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 499072,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/dab1084c98b8bfd9caf9da4fdc427a1c/spectrum/1040g0k0324idj5pj742g5nuv75gg8sn7u957kbg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 115772,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/d1f07a272d000006bf09507179970f5b/spectrum/1040g0k0324idj5pj74305nuv75gg8sn75emkq8g!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 93392,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/a3509bbc899af05ab83ebbda97204f57/spectrum/1040g0k0324idj5pj743g5nuv75gg8sn7sq2asgg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 144646,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/c1bb31c37488cc7308fb2e69d2e6cfa9/spectrum/1040g0k0324idj5pj74205nuv75gg8sn7c8pc8f0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 168524,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a96408f00000000280321bf?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOsuGPO0NAJp23TGT57xotCE=&xsec_source=pc_user",
+  "detailTitle": "亲子必：国庆假期北京手绘攻略🗺️",
+  "textReadFromDetail": true,
+  "bodyTextLength": 676
+}

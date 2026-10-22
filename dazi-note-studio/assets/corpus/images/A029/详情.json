@@ -1,0 +1,127 @@
+{
+  "homepageIndex": 29,
+  "noteId": "6a9635560000000026038ea4",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9635560000000026038ea4?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOm_ff9NJ8ABa8O0n_5x7riM=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:05:23.986Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 7,
+  "sourceImageCount": 7,
+  "checkedImageCount": 7,
+  "downloadedImageCount": 7,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/3e62ee3512d135e9d4a4b6648f7a6068/spectrum/1040g0k0324ic7laen2eg5nuv75gg8sn71ia2k90!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 158398,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/025e1a52b58e98f56feea7c74b90fa7f/spectrum/1040g0k0324ic7laen2d05nuv75gg8sn7pqnr390!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 129246,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/4d4c916a4c8239031b991de4ab898fd7/spectrum/1040g0k0324ic7laen2c05nuv75gg8sn7vhacrfg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 130238,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/f28e7ab70d12567de84ff05d58b97149/spectrum/1040g0k0324ic7laen2cg5nuv75gg8sn7i4stjm8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 145860,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/5d676537281a60aa02dcab866a978e25/spectrum/1040g0k0324ic7laen2dg5nuv75gg8sn7bs3earg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 155052,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 6,
+      "fraction": "6/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/139217e570cd5628bd7491dc0ff0ac53/spectrum/1040g0k0324ic7laen2e05nuv75gg8sn7ebgami0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "06.webp",
+      "captureMethod": "resource",
+      "bytes": 181694,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 7,
+      "fraction": "7/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/b87a6257495bc4bbad2010960bca2aee/spectrum/1040g0k0324ic7laen2f05nuv75gg8sn78qiqms0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "07.webp",
+      "captureMethod": "resource",
+      "bytes": 171854,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9635560000000026038ea4?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOm_ff9NJ8ABa8O0n_5x7riM=&xsec_source=pc_user",
+  "detailTitle": "领导力PPT10分钟搞定，排版高级不出错！",
+  "textReadFromDetail": true,
+  "bodyTextLength": 844
+}

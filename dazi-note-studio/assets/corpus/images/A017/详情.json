@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 17,
+  "noteId": "6a963acf00000000290149fb",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a963acf00000000290149fb?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOsMvOZYQJBgJEEeNhrlZ6o8=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:04:07.327Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/3782120da0c7482c4cca1c1e0895caab/spectrum/1040g0k0324ict5r072005nuv75gg8sn7j5huhug!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 101224,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/a758d9ba4758b57a394f16cd97e0e716/spectrum/1040g0k0324ict5r0720g5nuv75gg8sn7jkn4n90!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 130344,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/d0c41494ebc5370cf8b9b3e0e34b946d/spectrum/1040g0k0324ict5r072105nuv75gg8sn7jd46scg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 177096,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/94106c99a4e3116950174cec1f670e88/spectrum/1040g0k0324ict5r0721g5nuv75gg8sn71263ivo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 158930,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a963acf00000000290149fb?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOsMvOZYQJBgJEEeNhrlZ6o8=&xsec_source=pc_user",
+  "detailTitle": "解放双手‼️AI一句话自动校对数据✅",
+  "textReadFromDetail": true,
+  "bodyTextLength": 463
+}

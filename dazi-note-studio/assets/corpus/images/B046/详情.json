@@ -1,0 +1,77 @@
+{
+  "homepageIndex": 46,
+  "noteId": "6a82c3950000000033034d70",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a82c3950000000033034d70?xsec_token=ABi7n2RZ7FtSrhC7PohVNLTKMWojwizftNo_adfzaWems=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "应届生听劝，别再手动记秋招信息了",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/2cee02351766cb6ff2d05f66548cf0b9/spectrum/1040g34o323vcj4dcgm705q7jnjbdu8muu9i6rq8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/e2799363bf71fe5cb427b3cd1e48389b/spectrum/1040g34o323vcj4dcgm6g5q7jnjbdu8mum7d88o0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/6c12bda7c322619040e48913a2798e66/spectrum/1040g34o323vcj4dcgm605q7jnjbdu8muk6n33go!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/095df749536ba8b767c04b299846edaf/spectrum/1040g34o323vcj4dcgm5g5q7jnjbdu8mun5fl4p8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/7205d1c70eca66bc6d08501b69588392/spectrum/1040g34o323vcj4dcgm505q7jnjbdu8mu1m3t1p8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:28:01.956Z",
+  "mediaType": "image-text"
+}

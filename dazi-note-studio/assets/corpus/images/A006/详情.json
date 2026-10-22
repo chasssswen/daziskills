@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 6,
+  "noteId": "6a9640000000000028032037",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9640000000000028032037?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOliRWT4R3R8mTPbOd2vph9Q=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:02:49.781Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 5,
+  "sourceImageCount": 5,
+  "checkedImageCount": 5,
+  "downloadedImageCount": 5,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/93fa6ccdca9fa5c602d5fa4977d0c997/spectrum/1040g0k0324idfva0n23g5nuv75gg8sn7pffs42o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 273944,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/f07ae2fb6386ee6b2012488f9661fed0/spectrum/1040g0k0324idfva0n2205nuv75gg8sn77mk2ci8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 125468,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/e4ed1de2abc1f1562031a798c23c4062/spectrum/1040g0k0324idfva0n22g5nuv75gg8sn7060l71o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 132622,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/96d3fe3b1e6753157c3b7c0e1f50fe9b/spectrum/1040g0k0324idfva0n2305nuv75gg8sn7h4fu59o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 169926,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/425d62441070917b0ffeb9c36174ca30/spectrum/1040g0k0324idhe6h72005nuv75gg8sn7mkka370!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 131216,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9640000000000028032037?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOliRWT4R3R8mTPbOd2vph9Q=&xsec_source=pc_user",
+  "detailTitle": "上海只玩一天，直接复制这条citywalk路线",
+  "textReadFromDetail": true,
+  "bodyTextLength": 574
+}

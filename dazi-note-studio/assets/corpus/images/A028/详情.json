@@ -1,0 +1,127 @@
+{
+  "homepageIndex": 28,
+  "noteId": "6a96358c00000000260325a0",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a96358c00000000260325a0?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOoJAXHPuqrCORfkkL7XZnEY=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:05:15.087Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 7,
+  "sourceImageCount": 7,
+  "checkedImageCount": 7,
+  "downloadedImageCount": 7,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/dc8bc5040897add4125d7d96fbb0e938/spectrum/1040g0k0324ic8c9p72005nuv75gg8sn76ae9qvo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1440
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 227654,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/89257b0d7a6106a59774a5b0a0af79ea/spectrum/1040g0k0324ic8c9p72205nuv75gg8sn7qa5r4go!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 192048,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/5dc12a778739c80a22d95993af8a1d33/spectrum/1040g0k0324ic8c9p72305nuv75gg8sn7vu470bo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 198326,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/df5c8cc186439d3358e779cf68756430/spectrum/1040g0k0324ic8c9p720g5nuv75gg8sn7irjb978!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 90646,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/e736c7b26d5c4bedf50199959e8cae64/spectrum/1040g0k0324ic8c9p72105nuv75gg8sn7i4op9eg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 133786,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 6,
+      "fraction": "6/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/f6e8dc885f52a1c1bf44f73a08013b59/spectrum/1040g0k0324ic8c9p721g5nuv75gg8sn7u8cnjho!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "06.webp",
+      "captureMethod": "resource",
+      "bytes": 140332,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 7,
+      "fraction": "7/7",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/eb41c3a06fe3ed2914c26bf43f9003e4/spectrum/1040g0k0324ic8c9p722g5nuv75gg8sn7u9o5eb0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "07.webp",
+      "captureMethod": "resource",
+      "bytes": 129404,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a96358c00000000260325a0?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOoJAXHPuqrCORfkkL7XZnEY=&xsec_source=pc_user",
+  "detailTitle": "儿童心理健康｜AI带你快速读懂娃的心❤️",
+  "textReadFromDetail": true,
+  "bodyTextLength": 762
+}

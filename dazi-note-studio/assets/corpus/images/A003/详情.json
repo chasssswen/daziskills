@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 3,
+  "noteId": "6a9640e3000000002b010c6f",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9640e3000000002b010c6f?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOsfAe6a5m6W9JdLTAaVgqXY=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:02:29.599Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 5,
+  "sourceImageCount": 5,
+  "checkedImageCount": 5,
+  "downloadedImageCount": 5,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/39ab4b4cf202da01bf031be3dca74401/spectrum/1040g0k0324idk646gs005nuv75gg8sn7ne5vivg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 289774,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/12788985b704d94bacb64ff95621df29/spectrum/1040g0k0324idk646gs1g5nuv75gg8sn73v6r010!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 283566,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/b6660f4ddfdf7dbeb7597d54ca9e94c4/spectrum/1040g0k0324idk646gs0g5nuv75gg8sn711vcts0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 142878,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/736cb4c1ad153df4c8dae4f2b36fd081/spectrum/1040g0k0324idk646gs105nuv75gg8sn713htvbg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 957,
+        "height": 1280
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 68350,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/aa06f93ef572b68f09c0a3f59a623337/spectrum/1040g0k0324idk646gs205nuv75gg8sn7mq0aso8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 110462,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9640e3000000002b010c6f?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOsfAe6a5m6W9JdLTAaVgqXY=&xsec_source=pc_user",
+  "detailTitle": "国庆去青岛，这份攻略被朋友问爆了！",
+  "textReadFromDetail": true,
+  "bodyTextLength": 517
+}

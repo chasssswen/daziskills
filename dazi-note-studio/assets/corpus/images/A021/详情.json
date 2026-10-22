@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 21,
+  "noteId": "6a96373c00000000280291e2",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a96373c00000000280291e2?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOvR2Y5-DbwhgD3WX12rXrZ8=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:04:30.195Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 5,
+  "sourceImageCount": 5,
+  "checkedImageCount": 5,
+  "downloadedImageCount": 5,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/0af45f686619e45d722d1379b9b6ef10/spectrum/1040g0k0324icf2dg6uc05nuv75gg8sn7213gl5g!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1441
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 218038,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/ad133b688defdffab103033dcbbc0ffc/spectrum/1040g0k0324icf2dg6u905nuv75gg8sn7cd98lro!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 236068,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/269d1d2874d18b453eac7fbdf9bca0de/spectrum/1040g0k0324icf2dg6ub05nuv75gg8sn7kf24fmo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 149878,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/cccfdc895900c0652706dc829218e584/spectrum/1040g0k0324icf2dg6ubg5nuv75gg8sn7gb6tclg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 197308,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/fc13f027af389c9a44ca9679dccd2144/spectrum/1040g0k0324icf2dg6uag5nuv75gg8sn7og3e03o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 106692,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a96373c00000000280291e2?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOvR2Y5-DbwhgD3WX12rXrZ8=&xsec_source=pc_user",
+  "detailTitle": "00后双休HR💼 |用AI搞定面试评估纪要",
+  "textReadFromDetail": true,
+  "bodyTextLength": 441
+}

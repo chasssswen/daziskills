@@ -1,0 +1,53 @@
+{
+  "homepageIndex": 28,
+  "noteId": "6a86cf690000000033033303",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a86cf690000000033033303?xsec_token=ABUHTIQuCUcUzqx6tTEhj72mszDnQ1su9W_PfJQsokNKg=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "重磅预警｜AI 办公即将迎来大变动",
+  "declaredPages": 3,
+  "actualReadCount": 3,
+  "savedCount": 3,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/3",
+      "observedFraction": "1/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/db84c5492d6b0edcb31b9d559fa99de9/spectrum/1040g0k03243b11c50s105q7jnjbdu8muk3a1g5o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1448,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/3",
+      "observedFraction": "2/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/becd742a0833041e8f27c2216d8dedb4/spectrum/1040g0k03243b11c50s0g5q7jnjbdu8mu8pfq3pg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/3",
+      "observedFraction": "3/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/cae89d7f640089b3ac5cf7a3cf86fe46/spectrum/1040g0k03243b11c50s005q7jnjbdu8mu2jntbig!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    }
+  ],
+  "openedAt": "2026-09-02T07:25:28.594Z",
+  "mediaType": "image-text"
+}

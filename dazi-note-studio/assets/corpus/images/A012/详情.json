@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 12,
+  "noteId": "6a963c88000000002803162c",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a963c88000000002803162c?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOpYO2gVm0InQAVWmxRloJ2Y=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:03:35.805Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 5,
+  "sourceImageCount": 5,
+  "checkedImageCount": 5,
+  "downloadedImageCount": 5,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/dc5ee6f8e5c8c225bc8cc59508bff7e0/spectrum/1040g0k0324id3pkk6u005nuv75gg8sn7gf98mmo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 145392,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/5512b60bfd7d1cac1c4092f2bc2a0d05/spectrum/1040g0k0324id3pkk6u2g5nuv75gg8sn7icpjb1o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 235160,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/5815b1f4aaaf8051b89d0a5debce6743/spectrum/1040g0k0324id3pkk6u105nuv75gg8sn7te036o0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 211302,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/edad145f092423565dc1201df4345a30/spectrum/1040g0k0324id3pkk6u1g5nuv75gg8sn7j90lr80!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 201834,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021103/34aeeea4fbedc1e2e5e1c3be68e3d825/spectrum/1040g0k0324id3pkk6u205nuv75gg8sn7pd5ng68!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 246990,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a963c88000000002803162c?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOpYO2gVm0InQAVWmxRloJ2Y=&xsec_source=pc_user",
+  "detailTitle": "去云南旅游不花冤枉钱！5天5晚真实消费💰",
+  "textReadFromDetail": true,
+  "bodyTextLength": 585
+}

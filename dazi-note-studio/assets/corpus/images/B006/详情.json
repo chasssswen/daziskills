@@ -1,0 +1,66 @@
+{
+  "homepageIndex": 6,
+  "noteId": "6a914a6f0000000026004069",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a914a6f0000000026004069?xsec_token=ABZsQJgKOTt5sAkzAZZZ5dxwurEGPdzekRficJtwjtZpI=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "销售的AI搭子，我用百度搭子做了专属工作台",
+  "declaredPages": 4,
+  "actualReadCount": 4,
+  "savedCount": 4,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/4",
+      "observedFraction": "1/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/9bb44d7f878fcb0b575acb814f9d0841/spectrum/1040g0k0324dii2og0s005q7jnjbdu8muoegahjo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/4",
+      "observedFraction": "2/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/0b574d3d517dd23169b91bdb8e3ed827/spectrum/1040g0k0324dii2og0s0g5q7jnjbdu8muibm6g5g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/4",
+      "observedFraction": "3/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/ea6a9787864a71d2d83fba450fc5af94/spectrum/1040g0k0324dii2og0s105q7jnjbdu8mufmpd6g0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/4",
+      "observedFraction": "4/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/de6b5598c4cfb142322da911589dfe80/spectrum/1040g0k0324dii2og0s1g5q7jnjbdu8muv3rj2ag!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:22:48.487Z",
+  "mediaType": "image-text"
+}

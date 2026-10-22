@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 2,
+  "noteId": "6a96412a000000002a007e23",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a96412a000000002a007e23?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOlF8q7-eB41q1KrVjWFTB1A=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:02:24.022Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/252d388cd45975fb2fef64f713b2f3ab/spectrum/1040g0k0324idltaq74005nuv75gg8sn74t7pbso!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 203182,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/ca4eadd7f885709a75a3eac8c0c20da3/spectrum/1040g0k0324idltaq741g5nuv75gg8sn71t473e8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 167040,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/c55ea06f74ecec80e1485a8211509d69/spectrum/1040g0k0324idltaq740g5nuv75gg8sn7pi5cd00!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 91080,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/0f0a1aa8628ecbbe4a9edb861cbec380/spectrum/1040g0k0324idltaq74105nuv75gg8sn7ps3sjq0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 112624,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a96412a000000002a007e23?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOlF8q7-eB41q1KrVjWFTB1A=&xsec_source=pc_user",
+  "detailTitle": "要去泰国旅游看这篇！！！",
+  "textReadFromDetail": true,
+  "bodyTextLength": 641
+}

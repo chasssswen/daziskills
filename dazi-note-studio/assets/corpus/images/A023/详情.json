@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 23,
+  "noteId": "6a9636ae0000000029018c11",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9636ae0000000029018c11?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOv4wtzuY__9qTSB9GPEMdkM=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:04:42.873Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 5,
+  "sourceImageCount": 5,
+  "checkedImageCount": 5,
+  "downloadedImageCount": 5,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/63e88417d1594b7bceb33843d51e21df/spectrum/1040g0k0324iccmalmu305nuv75gg8sn7r3jplto!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1440
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 210260,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/7bd0e5ea3c3c5ecf96036fabe537092a/spectrum/1040g0k0324iccmalmu005nuv75gg8sn7l9of4fo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1440
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 236824,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/185254c2a0ad1f15fcef186e7ba7e780/spectrum/1040g0k0324iccmalmu105nuv75gg8sn7v79mb5g!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 153778,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/052f2d5262967fe4023ba09f59a35811/spectrum/1040g0k0324iccmalmu1g5nuv75gg8sn70lcnr3g!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 174108,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/ad2c2339b83e0600287059920c30a8ce/spectrum/1040g0k0324iccmalmu205nuv75gg8sn7372eclg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 165646,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9636ae0000000029018c11?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOv4wtzuY__9qTSB9GPEMdkM=&xsec_source=pc_user",
+  "detailTitle": "国企行政岗｜聪明的人都在给工作做“减法”",
+  "textReadFromDetail": true,
+  "bodyTextLength": 668
+}

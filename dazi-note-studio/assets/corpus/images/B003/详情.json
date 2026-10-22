@@ -1,0 +1,64 @@
+{
+  "homepageIndex": 3,
+  "noteId": "6a963719000000002a02c8d3",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a963719000000002a02c8d3?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOmOSFU9S-O7uysxvgHkouNw=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "黄金暴跌！普通人现在还能入吗？",
+  "declaredPages": 4,
+  "actualReadCount": 4,
+  "savedCount": 4,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/4",
+      "observedFraction": "1/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/aab01c300685265ae6146765dde08900/spectrum/1040g34o324iceb0rn45g5q7jnjbdu8muk1upa1g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/4",
+      "observedFraction": "2/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/9129178802db1e41d93b4ef721f92254/spectrum/1040g34o324iceb0rn4505q7jnjbdu8muj1947kg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "02.webp"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/4",
+      "observedFraction": "3/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/aba2cc2c0026ed11d70f09e9d8cadf26/spectrum/1040g34o324iceb0rn44g5q7jnjbdu8mue91uf70!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/4",
+      "observedFraction": "4/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/512b3f4016e7ed5f1de26a80a00563b2/spectrum/1040g34o324iceb0rn4405q7jnjbdu8mu58ksnno!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:22:27.645Z",
+  "mediaType": "image-text"
+}

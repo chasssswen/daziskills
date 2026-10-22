@@ -1,0 +1,73 @@
+{
+  "homepageIndex": 26,
+  "noteId": "6a880d3a000000003a02fa1a",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a880d3a000000003a02fa1a?xsec_token=ABwUPTPa5pY25WC6pOAXp114H-hNwCVui4ugLVhO1O2r8=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "AI拼豆图纸｜洛克王国睡铃雪影",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/1f7b566016489b5b68a6dc26582cfc63/spectrum/1040g0k03244hqe6lgm205q7jnjbdu8mu1clcm0g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/9c0260e6a9968fc749213315c46a76d3/spectrum/1040g0k03244hqe6lgm1g5q7jnjbdu8mupqhu058!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/247cbff1968e7c1dc726f78a729ca439/spectrum/1040g0k03244hqe6lgm105q7jnjbdu8muptojnhg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "03.webp"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/abce7d7397869168e8761691b9dc715e/spectrum/1040g0k03244hqe6lgm0g5q7jnjbdu8muqrhuv30!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/e188839bc5496b073cf595bccda4f2f2/spectrum/1040g0k03244hqe6lgm005q7jnjbdu8mu2ejh2f0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:25:11.388Z",
+  "mediaType": "image-text"
+}

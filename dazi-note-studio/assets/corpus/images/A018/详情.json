@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 18,
+  "noteId": "6a963aac000000002b01e054",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a963aac000000002b01e054?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOtc4i_0qJ3OEbJodVT5HNcY=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:04:12.994Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/c0302d4fad9eb57767d64107a3ba4536/spectrum/1040g0k0324ics6h30m1g5nuv75gg8sn7ar00org!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 177584,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/e304b4885e996d218594d89b8b54ab48/spectrum/1040g0k0324ics6h30m005nuv75gg8sn79fv1bco!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 138908,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/d712da58e8ce2cd00afbb96e492b8048/spectrum/1040g0k0324ics6h30m0g5nuv75gg8sn7fc5sds0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 182526,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021104/4231c278f75c7686c306f7512f014327/spectrum/1040g0k0324ics6h30m105nuv75gg8sn76l3g87o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 202688,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a963aac000000002b01e054?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOtc4i_0qJ3OEbJodVT5HNcY=&xsec_source=pc_user",
+  "detailTitle": "提取扫描件文字|老师都在用的小妙招",
+  "textReadFromDetail": true,
+  "bodyTextLength": 440
+}

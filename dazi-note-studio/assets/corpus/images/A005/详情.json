@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 5,
+  "noteId": "6a964040000000002b026de5",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a964040000000002b026de5?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOpdbwfXCLhlBO5ilyCt2jgc=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:02:43.095Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 5,
+  "sourceImageCount": 5,
+  "checkedImageCount": 5,
+  "downloadedImageCount": 5,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/5ffe22ee97ba6b1d169c2112b85c7b25/spectrum/1040g0k0324idi03hmu005nuv75gg8sn71nh8e4g!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 388630,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/a01bf33844c59f8d31943888d41bb56f/spectrum/1040g0k0324idi03hmu2g5nuv75gg8sn7clivso0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 123052,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/967eb636257ea4c0fb0b879e71823e47/spectrum/1040g0k0324idi03hmu305nuv75gg8sn77fsq2d0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 103284,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/ce86689d83a5f0d12a3b8fe585defe0c/spectrum/1040g0k0324idi03hmu3g5nuv75gg8sn7m036bvo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 97910,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 5,
+      "fraction": "5/5",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021102/70af9d1c0612c3b1ac8f2800c366de6f/spectrum/1040g0k0324idi03hmu205nuv75gg8sn74rrtojo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "05.webp",
+      "captureMethod": "resource",
+      "bytes": 145886,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a964040000000002b026de5?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOpdbwfXCLhlBO5ilyCt2jgc=&xsec_source=pc_user",
+  "detailTitle": "新加坡5天4夜｜吃喝玩乐一篇搞定",
+  "textReadFromDetail": true,
+  "bodyTextLength": 724
+}

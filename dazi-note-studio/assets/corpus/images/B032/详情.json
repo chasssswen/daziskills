@@ -1,0 +1,73 @@
+{
+  "homepageIndex": 32,
+  "noteId": "6a866e450000000014024e15",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a866e450000000014024e15?xsec_token=ABUHTIQuCUcUzqx6tTEhj72qag9MjZO0jN2XvxMaUsN-E=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "独居以后,我手搓了个AI管家",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/4e7ac0ca8415f6c692a53dbdfabe83bb/spectrum/1040g34o3242v5c76mu805q7jnjbdu8mum463c50!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/e82f63dbc820ad2cbb0f1288c1281637/spectrum/1040g34o3242v5c76mu7g5q7jnjbdu8muno9kq4g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "02.webp"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/4eb20b2073b44f68217ba1f1ec64648e/spectrum/1040g34o3242v5c76mu705q7jnjbdu8muk0qthb8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "03.webp"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/a88c8dc43b914ed378b17ef247d37670/spectrum/1040g34o3242v5c76mu6g5q7jnjbdu8mu7s6b60o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/f4bae5c8cca7b0fc0cb52f9d93e74381/spectrum/1040g34o3242v5c76mu605q7jnjbdu8musl6og68!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:25:58.727Z",
+  "mediaType": "image-text"
+}

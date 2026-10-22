@@ -1,0 +1,77 @@
+{
+  "homepageIndex": 15,
+  "noteId": "6a8d789c0000000020034c5a",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8d789c0000000020034c5a?xsec_token=ABkm1khhN8SD3b9Q9cl9dSb7FqH2J-Q7YKGAwR-w0fhq0=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "美团老鼠拼豆|零基础3分钟学会自制图纸",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/cbc4f990f60bb2f00ec7618259f9f18a/spectrum/1040g0k03249r536ogm205q7jnjbdu8mu5b4uh80!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/187e33b821002070141df4573047c67a/spectrum/1040g0k03249r536ogm1g5q7jnjbdu8mu0hgb6eo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/e0653c5329a0af7569a3536a2cbc8e66/spectrum/1040g0k03249r536ogm105q7jnjbdu8mu545evvg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/d20fc101a38aaf334efeffa553014621/spectrum/1040g0k03249r536ogm0g5q7jnjbdu8mu0f5g4rg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021523/b3d5b3b0b539e0477b7ca14666c566b7/spectrum/1040g0k03249r536ogm005q7jnjbdu8mu79h5fko!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:23:51.311Z",
+  "mediaType": "image-text"
+}

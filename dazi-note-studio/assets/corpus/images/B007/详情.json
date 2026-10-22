@@ -1,0 +1,62 @@
+{
+  "homepageIndex": 7,
+  "noteId": "6a914a36000000002003375c",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a914a36000000002003375c?xsec_token=ABZsQJgKOTt5sAkzAZZZ5dxzVA6Pt3aOUg_fUtsox2d5I=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "别人家的小宝两个月就有自己的工作台了！",
+  "declaredPages": 4,
+  "actualReadCount": 4,
+  "savedCount": 4,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/4",
+      "observedFraction": "1/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/cd5fb1e71ad5916da753bf7decf68dda/spectrum/1040g0k0324dih48egs005q7jnjbdu8mubi42o8g!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/4",
+      "observedFraction": "2/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/d4ebc43924907b7bcb0a0f38a18691e6/spectrum/1040g0k0324dih48egs0g5q7jnjbdu8mui2j2jn0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "02.webp"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/4",
+      "observedFraction": "3/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/fcd0973ce3aa38ffb97aa68dd110b2bb/spectrum/1040g0k0324dih48egs105q7jnjbdu8mukn6kfa8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/4",
+      "observedFraction": "4/4",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/43cc2e16c13630084fc6a862250afa0a/spectrum/1040g0k0324dih48egs1g5q7jnjbdu8mub2btms8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:22:54.208Z",
+  "mediaType": "image-text"
+}

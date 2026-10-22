@@ -1,0 +1,86 @@
+{
+  "homepageIndex": 5,
+  "noteId": "6a914aae00000000210303db",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a914aae00000000210303db?xsec_token=ABZsQJgKOTt5sAkzAZZZ5dx6zrNcEugEQ6YBV48a9hv_0=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "用AI做秋季活动长图排版设计（附提示词",
+  "declaredPages": 6,
+  "actualReadCount": 6,
+  "savedCount": 6,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/6",
+      "observedFraction": "1/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/ba1b96a713899e1720aa94d8f20a12ba/spectrum/1040g34o324diitfbn2605q7jnjbdu8mu4trj7ug!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/6",
+      "observedFraction": "2/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/8e7b714840d704eda6e41d78359c8cf1/spectrum/1040g34o324diitfbn26g5q7jnjbdu8muu2vat68!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/6",
+      "observedFraction": "3/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/9a658d8ad837cce5d29206b1c45d3b9c/spectrum/1040g34o324diitfbn2705q7jnjbdu8mug47dhto!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "03.webp"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/6",
+      "observedFraction": "4/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/89e5a7dc50238e4dfd6fcd319cffec2c/spectrum/1040g34o324diitfbn27g5q7jnjbdu8mufpemid0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/6",
+      "observedFraction": "5/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/d8bdfcac33d98c8f7f8a5b02eb8e5b7a/spectrum/1040g34o324diitfbn2805q7jnjbdu8mug0eeu70!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    },
+    {
+      "page": 6,
+      "expectedFraction": "6/6",
+      "observedFraction": "6/6",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021522/36e3876b1f897bda0d6adc7027d539ac/spectrum/1040g34o324diitfbn28g5q7jnjbdu8mu5t7f8l8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "06.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:22:40.548Z",
+  "mediaType": "image-text"
+}

@@ -1,0 +1,75 @@
+{
+  "homepageIndex": 40,
+  "noteId": "6a8401190000000025011d4e",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a8401190000000025011d4e?xsec_token=ABQPy5ruS3GO7bOFqijbwwkJIN57PM7PREt-r51ncKrjY=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "详情页还做到凌晨？试试这个AI神器",
+  "declaredPages": 5,
+  "actualReadCount": 5,
+  "savedCount": 5,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/5",
+      "observedFraction": "1/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/78a25af3211e27798b59224a195e7e19/spectrum/1040g34o3240jb8mb0m705q7jnjbdu8muk0js51o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/5",
+      "observedFraction": "2/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/319195e4cf01ebf39709066b022e6f5a/spectrum/1040g34o3240jb8mb0m6g5q7jnjbdu8muis2jc88!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/5",
+      "observedFraction": "3/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/d2db574d6960c43b33328b25f78b49b2/spectrum/1040g34o3240jb8mb0m605q7jnjbdu8mu6kifs0o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "03.webp"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/5",
+      "observedFraction": "4/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/6c05900d3280f5074b1255c308494676/spectrum/1040g34o3240jb8mb0m5g5q7jnjbdu8mu47evt30!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/5",
+      "observedFraction": "5/5",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021527/d469f9e169767dd7726f721c279a1797/spectrum/1040g34o3240jb8mb0m505q7jnjbdu8multmgufo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:27:10.243Z",
+  "mediaType": "image-text"
+}

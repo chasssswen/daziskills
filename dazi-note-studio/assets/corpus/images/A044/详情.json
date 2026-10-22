@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 44,
+  "noteId": "6a953119000000002503e2a4",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a953119000000002503e2a4?xsec_token=ABqj6PqQFvBXuVXPORZKAfjDqsykCRn9JMfTExYB_wIM8=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:06:52.761Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/8c582793d3709324d407ce4ac7729163/spectrum/1040g34o324hcf7jgn45g5nuv75gg8sn786noj40!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1440
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 275118,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/757e9e89d22e4fb7d39b28fcc371c717/spectrum/1040g34o324hcf7jgn4405nuv75gg8sn7nmv00vo!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 147618,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/0aee368827eb9db4e847b295ae501840/spectrum/1040g34o324hcf7jgn44g5nuv75gg8sn77rdgr88!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 184914,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/8204a07b9aeb9620ac3e1ef5695adcca/spectrum/1040g34o324hcf7jgn4505nuv75gg8sn7b65uut0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 180534,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a953119000000002503e2a4?xsec_token=ABqj6PqQFvBXuVXPORZKAfjDqsykCRn9JMfTExYB_wIM8=&xsec_source=pc_user",
+  "detailTitle": "看我如何搞定三天两夜的旅游攻略🌿",
+  "textReadFromDetail": true,
+  "bodyTextLength": 497
+}

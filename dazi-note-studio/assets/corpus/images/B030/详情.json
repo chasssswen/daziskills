@@ -1,0 +1,97 @@
+{
+  "homepageIndex": 30,
+  "noteId": "6a86bced000000003302fb53",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a86bced000000003302fb53?xsec_token=ABUHTIQuCUcUzqx6tTEhj72opE5pZSLQEVuwMKC3y0JJY=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "我用AI搭建了工作台，面试完直接下班",
+  "declaredPages": 7,
+  "actualReadCount": 7,
+  "savedCount": 7,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/7",
+      "observedFraction": "1/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/cff3fe3315db0355809c0e8dc309ddd3/spectrum/1040g34o32438p2r1gma05q7jnjbdu8mu4nhl1qg!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "01.webp"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/7",
+      "observedFraction": "2/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/0e7d7bd7a406bafd384b442bf0812cad/spectrum/1040g34o32438p2r1gm9g5q7jnjbdu8muq9qs5g8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/7",
+      "observedFraction": "3/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/ab7d836f89b08adf15a909368c5d1395/spectrum/1040g34o32438p2r1gm905q7jnjbdu8mu8avsdjo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/7",
+      "observedFraction": "4/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/1fd663cf0d21255868debaae71500dbd/spectrum/1040g34o32438p2r1gm8g5q7jnjbdu8muf0jaod0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/7",
+      "observedFraction": "5/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/9ad6319ab47767dff59a89a9566931f6/spectrum/1040g34o32438p2r1gm805q7jnjbdu8muni1otvo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    },
+    {
+      "page": 6,
+      "expectedFraction": "6/7",
+      "observedFraction": "6/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/bf1e4bf68ad3da930053394caddcd1f1/spectrum/1040g34o32438p2r1gm7g5q7jnjbdu8mubaau57o!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "06.webp"
+    },
+    {
+      "page": 7,
+      "expectedFraction": "7/7",
+      "observedFraction": "7/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021525/b3d2a6c12e8689fffdfb7948e4fb98f6/spectrum/1040g34o32438p2r1gm705q7jnjbdu8mulrtcvmo!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "07.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:25:43.216Z",
+  "mediaType": "image-text"
+}

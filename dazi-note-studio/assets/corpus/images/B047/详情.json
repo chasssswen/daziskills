@@ -1,0 +1,55 @@
+{
+  "homepageIndex": 47,
+  "noteId": "6a82c2de0000000022030a22",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a82c2de0000000022030a22?xsec_token=ABi7n2RZ7FtSrhC7PohVNLTMR4dHTR2CIIZ6mTuQ36ifY=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "盯盘切8个页面？搭子帮你串起来📊",
+  "declaredPages": 3,
+  "actualReadCount": 3,
+  "savedCount": 3,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/3",
+      "observedFraction": "1/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/c629cc12ed5b877a5e14a920df8678bc/spectrum/1040g0k0323vcg9j90m105q7jnjbdu8muk4q1lh0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/3",
+      "observedFraction": "2/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/619f7d2896c8acf59cb1b1f98db09b56/spectrum/1040g0k0323vcg9j90m0g5q7jnjbdu8mumq76hu8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/3",
+      "observedFraction": "3/3",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021528/5f8670a53632decb10c5ae3e242ffce1/spectrum/1040g0k0323vcg9j90m005q7jnjbdu8mukuatif8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    }
+  ],
+  "openedAt": "2026-09-02T07:28:09.305Z",
+  "mediaType": "image-text"
+}

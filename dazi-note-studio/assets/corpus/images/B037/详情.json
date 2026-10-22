@@ -1,0 +1,99 @@
+{
+  "homepageIndex": 37,
+  "noteId": "6a857088000000002203342b",
+  "detailUrl": "https://www.xiaohongshu.com/explore/6a857088000000002203342b?xsec_token=ABve5BjW8TLugJbPzVGmdnRdHSM7U6HZadu_CPejoY9ok=&xsec_source=pc_user",
+  "status": "complete",
+  "title": "给老师减负提效，这个AI做到了！",
+  "declaredPages": 7,
+  "actualReadCount": 7,
+  "savedCount": 7,
+  "missingPages": [],
+  "images": [],
+  "readEvidence": [
+    {
+      "page": 1,
+      "expectedFraction": "1/7",
+      "observedFraction": "1/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/75ee34deaaf0659c4d6875603b7c41a7/spectrum/1040g34o324206hlin0a05q7jnjbdu8muv8n1ed0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "01.png",
+      "resourceFailure": "Asset response type missing is not valid for image",
+      "screenshotEvidence": "Asset response type missing is not valid for image"
+    },
+    {
+      "page": 2,
+      "expectedFraction": "2/7",
+      "observedFraction": "2/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/136b8a289338a3e62ab30752c0a3ac8b/spectrum/1040g34o324206hlin09g5q7jnjbdu8muoi1k3j0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1438,
+      "captureMethod": "screenshot",
+      "file": "02.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 3,
+      "expectedFraction": "3/7",
+      "observedFraction": "3/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/65b04bd86431381e27b5eda904eafd5b/spectrum/1040g34o324206hlin0905q7jnjbdu8muavs6t38!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "screenshot",
+      "file": "03.png",
+      "resourceFailure": "详情页资源清单未匹配当前已加载图片",
+      "screenshotEvidence": "详情页资源清单未匹配当前已加载图片"
+    },
+    {
+      "page": 4,
+      "expectedFraction": "4/7",
+      "observedFraction": "4/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/1d314f08edbe2c8e6f32d9cafc69123f/spectrum/1040g34o324206hlin08g5q7jnjbdu8mu0ci2du0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "04.webp"
+    },
+    {
+      "page": 5,
+      "expectedFraction": "5/7",
+      "observedFraction": "5/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/3a15ee1429b41fad9e9995ab1171933f/spectrum/1040g34o324206hlin0805q7jnjbdu8muih7jvb0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "05.webp"
+    },
+    {
+      "page": 6,
+      "expectedFraction": "6/7",
+      "observedFraction": "6/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/7e9a16759905f8f1a9643af1c898a08f/spectrum/1040g34o324206hlin07g5q7jnjbdu8mufubt2p0!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "06.webp"
+    },
+    {
+      "page": 7,
+      "expectedFraction": "7/7",
+      "observedFraction": "7/7",
+      "readInBrowser": true,
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021526/70c4b107cfe25a88f53193230b62e3a8/spectrum/1040g34o324206hlin0705q7jnjbdu8mun9993m8!nd_dft_wlteh_webp_3",
+      "width": 1080,
+      "height": 1440,
+      "captureMethod": "detail-resource",
+      "file": "07.webp"
+    }
+  ],
+  "openedAt": "2026-09-02T07:26:43.517Z",
+  "mediaType": "image-text"
+}

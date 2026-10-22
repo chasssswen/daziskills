@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 30,
+  "noteId": "6a963529000000002600a6aa",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a963529000000002600a6aa?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOpmU83F7k3HCbqUBQrNA4V0=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:05:33.564Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/6487aba7c524b2646111ce8b866bed60/spectrum/1040g0k0324ic6ob10mag5nuv75gg8sn7ebkb7s8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1358
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 235568,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/c18e9f87b3d362d0951f87194c8d6a7e/spectrum/1040g0k0324ic6ob10mbg5nuv75gg8sn7mejqd6o!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1358
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 151904,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/8bce71e7944d2dfbee9792868f4c3830/spectrum/1040g0k0324ic6ob10mc05nuv75gg8sn7cgodgr8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1358
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 165478,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021105/6895e30f8b368e5769d3e0ec60968bdb/spectrum/1040g0k0324ic6ob10mcg5nuv75gg8sn7ticors0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1358
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 166976,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a963529000000002600a6aa?xsec_token=ABCzYJ3M_PNcQK33q9_1DQOpmU83F7k3HCbqUBQrNA4V0=&xsec_source=pc_user",
+  "detailTitle": "一定要试试用AI生成述职PPT❗",
+  "textReadFromDetail": true,
+  "bodyTextLength": 803
+}

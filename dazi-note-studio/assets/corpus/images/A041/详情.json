@@ -1,0 +1,82 @@
+{
+  "homepageIndex": 41,
+  "noteId": "6a9531a30000000020039f78",
+  "detailUrl": "https://www.xiaohongshu.com/user/profile/5fdf396100000000010072e7/6a9531a30000000020039f78?xsec_token=ABqj6PqQFvBXuVXPORZKAfjPDyjnqOfYjOK0CunvsB7LE=&xsec_source=pc_user",
+  "homepageTitle": null,
+  "collectedAt": "2026-09-02T03:06:30.613Z",
+  "imageCaptureMethod": "detail-page-resource-with-browser-page-verification",
+  "video": false,
+  "declaredImageCount": 4,
+  "sourceImageCount": 4,
+  "checkedImageCount": 4,
+  "downloadedImageCount": 4,
+  "complete": true,
+  "status": "complete",
+  "pages": [
+    {
+      "page": 1,
+      "fraction": "1/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/3fae117a830814d1486245ba076ffaf7/spectrum/1040g34o324hchafcmu4g5nuv75gg8sn7mq7rrg0!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "01.webp",
+      "captureMethod": "resource",
+      "bytes": 253478,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 2,
+      "fraction": "2/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/75c6f335782f399744fe4e8ec088cfce/spectrum/1040g34o324hchafcmu405nuv75gg8sn7trsereg!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "02.webp",
+      "captureMethod": "resource",
+      "bytes": 175288,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 3,
+      "fraction": "3/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/b7a2f67848f5865f09150a7f171dae8f/spectrum/1040g34o324hchafcmu505nuv75gg8sn7aku4950!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "03.webp",
+      "captureMethod": "resource",
+      "bytes": 139674,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    },
+    {
+      "page": 4,
+      "fraction": "4/4",
+      "sourceUrl": "https://sns-webpic-qc.xhscdn.com/202609021106/cfa6234c7e97497e0e18601c6ac93458/spectrum/1040g34o324hchafcmu5g5nuv75gg8sn7fu4nbv8!nd_dft_wlteh_webp_3",
+      "sourceNaturalSize": {
+        "width": 1080,
+        "height": 1443
+      },
+      "file": "04.webp",
+      "captureMethod": "resource",
+      "bytes": 206648,
+      "contentType": "image/webp",
+      "readInBrowser": true,
+      "saved": true
+    }
+  ],
+  "failureReason": null,
+  "resolvedUrl": "https://www.xiaohongshu.com/explore/6a9531a30000000020039f78?xsec_token=ABqj6PqQFvBXuVXPORZKAfjPDyjnqOfYjOK0CunvsB7LE=&xsec_source=pc_user",
+  "detailTitle": "最近想去山西走一走，然后收到了这个……",
+  "textReadFromDetail": true,
+  "bodyTextLength": 528
+}
